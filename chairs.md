@@ -19,6 +19,7 @@ title: Organizing Committee
 [7]: https://twitter.com/frantishek
 [8]: https://twitter.com/ivanvladimir
 [9]: https://twitter.com/hego_py
+[10]: https://twitter.com/devoidikk
 
 ### Organizing Committee
 * [Dr. Thamar Solorio](https://mbzuai.ac.ae/study/faculty/thamar-solorio/)  [![alt text][1.2]][1]
@@ -38,7 +39,7 @@ title: Organizing Committee
 ----------
 ### Sponsorship and Funding Committee
 * [Dr. Thamar Solorio](https://mbzuai.ac.ae/study/faculty/thamar-solorio/)  [![alt text][1.2]][1]
-* [Dr. Diana Galvan]()
+* [Dr. Diana Galvan](https://dianags.github.io/) [![alt text][1.2]][10]
 
 ----------
 ### Publicity and Web Committee
