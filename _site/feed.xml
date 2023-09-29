@@ -11,5 +11,16 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
     
+      <item>
+        <title>Mexican NLP Summer School 2024@NAACL 2024</title>
+        <description>
+          Exploration Survey - 
+          We are very excited about the next NLP Summer School 2024, to be held jointly with one of the most important NLP conferences in America, NAACL 2024 We plan to organize a superb event, and for that we need your help answering a small survey that will shed light on...
+        </description>
+        <pubDate>Sun, 25 Sep 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022-09-25-SurveyInfo/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022-09-25-SurveyInfo/</guid>
+      </item>
+    
   </channel>
 </rss>
