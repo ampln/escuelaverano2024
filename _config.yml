@@ -22,6 +22,7 @@ navbar-links:
   Organization:
     - Organizers: "chairs"
     - Sponsors: "sponsors"
+  Previous editions : "previousEditions"
   Contact: "contact"
 
 
