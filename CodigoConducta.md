@@ -26,4 +26,4 @@ This code of conduct seeks that exchanges and scientific debates be carried out 
 * Permanent suspension from the NLP Summer School, and thus resulting in no recognition of attendance.
 
 ----------
-[Organizing Committee.](/escuelaverano2024/chairs/)
+<!-- [Organizing Committee.](/escuelaverano2024/chairs/) -->

@@ -118,4 +118,7 @@ While we are happy to share sub-events that are in conjunction with NAACL 2024 w
 
   *"The Mexican NLP Summer School does not endorse the sponsors of our event as employers, nor do we endorse the views they express or the products/services they offer. We are grateful for their sponsorship of our programs and we encourage our participants to do their own research into these organizations."*
 
-If you are interested in being a sponsor and have not heard from **Mexican NLP Summer School** previously, please reach out to us at [pastor.lopez@cimat.mx](mailto:pastor.lopez@cimat.mx). We look forward to hearing from you.
+If you are interested in being a sponsor and have not heard from **Mexican NLP Summer School** previously, please reach out to us at:<br> 
+- [esau.villatoro@idiap.ch ](mailto:esau.villatoro@idiap.ch)
+- [pastor.lopez@cimat.mx](mailto:pastor.lopez@cimat.mx)
+We look forward to hearing from you.

@@ -45,6 +45,8 @@ title: Organizing Committee
 ### Publicity and Web Committee
 * [Dr. Esaú Villatoro Tello](https://www.idiap.ch/~evillatoro/) [![alt text][1.2]][3]
 * [Dr. Ivan Vladimir Meza Ruiz](http://turing.iimas.unam.mx/~ivanvladimir/) [![alt text][1.2]][8]
+* [Emilio Villa Cueva (MSc student)](https://villacu.github.io/)
+
 
 ----------
 ### Participating institutions.
