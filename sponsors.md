@@ -28,19 +28,22 @@ The Mexican NLP Summer School is possible thanks to the efforts of many people. 
 <br>
 <div class="row">
  <div class="column">
-   <img height="150" src="{{ 'assets/images/cimat.png'| relative_url }}" alt="CIMAT" hspace="30">
+   <img height="150" src="{{ 'assets/images/cimat.png'| relative_url }}" alt="CIMAT" hspace="40">
  </div>
  <div class="column">
-   <img height="120" src="{{ 'assets/images/IIMAS.png'| relative_url }}" alt="IIMAS UNAM" hspace="30">
+   <img height="120" src="{{ 'assets/images/IIMAS.png'| relative_url }}" alt="IIMAS UNAM" hspace="40">
  </div>
  <div class="column">
    <img height="100" src="{{ 'assets/images/UTN.png'| relative_url }}" alt="UTN" hspace="40">
  </div>
+</div>
+<br>
+<div class="row">
  <div class="column">
-   <img height="100" src="{{ 'assets/images/inaoe.png'| relative_url }}" alt="INAOE" hspace="30">
+   <img height="70" src="{{ 'assets/images/Idiap.png'| relative_url }}" alt="Idiap" hspace="40">
  </div>
- <div class="column">
-   <img height="70" src="{{ 'assets/images/Idiap.png'| relative_url }}" alt="Idiap" hspace="30">
+  <div class="column">
+   <img height="150" src="{{ 'assets/images/MBZUAI_Logo.jpg'| relative_url }}" alt="MZBUAI" hspace="40">
  </div>
 </div>
 
@@ -121,4 +124,5 @@ While we are happy to share sub-events that are in conjunction with NAACL 2024 w
 If you are interested in being a sponsor and have not heard from **Mexican NLP Summer School** previously, please reach out to us at:<br> 
 - [esau.villatoro@idiap.ch ](mailto:esau.villatoro@idiap.ch)
 - [pastor.lopez@cimat.mx](mailto:pastor.lopez@cimat.mx)
+<br>
 We look forward to hearing from you.
