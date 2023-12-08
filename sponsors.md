@@ -47,15 +47,24 @@ The Mexican NLP Summer School is possible thanks to the efforts of many people. 
  </div>
 </div>
 
+
 ---
 #### Industry:
 
----
-If you are interested in sponsoring this great effort, please contact us!!
-
-<div class="text-center">
-  <img height="300" src="{{ 'assets/images/we_need_you.jpg' | relative_url }}" alt="Not found" />
+<br>
+<div class="row">
+ <div class="column">
+   <img height="120" src="{{ 'assets/images/bloomberg_logo.png'| relative_url }}" alt="bloomberg" hspace="40">
+ </div>
 </div>
+
+<br>
+---
+<!-- If you are interested in sponsoring this great effort, please contact us!! -->
+
+<!-- <div class="text-center"> -->
+  <!-- <img height="300" src="{{ 'assets/images/we_need_you.jpg' | relative_url }}" alt="Not found" /> -->
+<!-- </div> -->
 
 ## Sponsor Policy for the 2024 Mexican NLP Summer School
 
