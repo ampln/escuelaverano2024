@@ -54,7 +54,9 @@ The Mexican NLP Summer School is possible thanks to the efforts of many people. 
 <br>
 <div class="row">
  <div class="column">
-   <img height="120" src="{{ 'assets/images/bloomberg_logo.png'| relative_url }}" alt="bloomberg" hspace="40">
+    <a href="https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/" target="_blank">
+      <img height="120" src="{{ 'assets/images/BBGEngineering_black.png'| relative_url }}" alt="bloomberg" hspace="40">
+    </a>
  </div>
 </div>
 
