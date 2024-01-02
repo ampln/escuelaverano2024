@@ -18,7 +18,7 @@ css: "/assets/css/index.css"
 
   <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="/assets/images/speakers/speaker_veronica_perez.jpeg" alt="speaker_veronica_perez" width="300" />
+    <img src="{{'/assets/images/speakers/speaker_veronica_perez.jpeg'| relative_url }}" alt="speaker_veronica_perez" width="300" />
   </div>
   <div style="flex: 2; padding-left: 20px; font-size: 14px;">
     <h4>Veronica Perez Rosas</h4>
@@ -29,7 +29,7 @@ css: "/assets/css/index.css"
 
   <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="/assets/images/speakers/speaker_danae.jpeg" alt="speaker_danae" width="300" />
+    <img src="{{'/assets/images/speakers/speaker_danae.jpeg'| relative_url }}" alt="speaker_veronica_perez" width="300" />
   </div>
   <div style="flex: 2; padding-left: 20px; font-size: 14px;">
     <h4>Danae Sánchez</h4>
@@ -41,7 +41,7 @@ css: "/assets/css/index.css"
 
   <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="/assets/images/speakers/speaker_aji.jpeg" alt="speaker_aji" width="300" />
+    <img src="{{'/assets/images/speakers/speaker_aji.jpeg'| relative_url }}" alt="speaker_veronica_perez" width="300" />
   </div>
   <div style="flex: 2; padding-left: 20px; font-size: 14px;">
     <h4>Alham Fikri Aji</h4>
@@ -51,7 +51,7 @@ css: "/assets/css/index.css"
 <br>
   <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="/assets/images/speakers/speaker_lena.jpeg" alt="speaker_lena" width="300" />
+    <img src="{{'/assets/images/speakers/speaker_lena.jpeg'| relative_url }}" alt="speaker_veronica_perez" width="300" />
   </div>
   <div style="flex: 2; padding-left: 20px; font-size: 14px;">
     <h4>Lena Voita</h4>
@@ -61,7 +61,7 @@ css: "/assets/css/index.css"
 <br>
  <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="/assets/images/speakers/speaker_jocelyn.jpeg" alt="speaker_jocelyn" width="300" />
+    <img src="{{'/assets/images/speakers/speaker_jocelyn.jpeg'| relative_url }}" alt="speaker_veronica_perez" width="300" />
   </div>
   <div style="flex: 2; padding-left: 20px; font-size: 14px;">
     <h4>Jocelyn Dunstan</h4>
