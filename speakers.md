@@ -12,7 +12,9 @@ css: "/assets/css/index.css"
 </div> --> 
 <!-- Commented above because it repeats the same function as the website navigation bar -->
 
-## Speakers
+<!-- Should eventually separate in tutorials/panelists/etc -->
+<!-- ## Speakers  -->
+
 <br>
 <!-- ![Alt Text]()  -->
 
