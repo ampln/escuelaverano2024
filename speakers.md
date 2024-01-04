@@ -47,7 +47,9 @@ css: "/assets/css/index.css"
   </div>
   <div style="flex: 2; padding-left: 20px; font-size: 14px;">
     <h4>Alham Fikri Aji</h4>
-    <p>Aji obtained his PhD in computational linguistics from University of Edinburgh, Scotland. He was a postdoctoral fellow at the Institute for Language, Cognition and Computation at the University of Edinburgh where he contributed to efficient NMT-related projects, such as Marian: a fast NMT framework and browser-based translation without using the cloud. Aside from efficient NLP, he is now interested in developing datasets and systems for multilingual NLP especially for under-resourced languages. Aji also co-initiated IndoNLP, a community-based movement to enable and advance NLP research for Indonesian languages. He also worked in several well-known industries such as Apple (language engineer, 2015), Google (intern, 2017), and finally at Amazon (applied scientist, 2021). He also worked at a start-up in Indonesia which is engaged in conversational AI.</p>
+    <p>
+    Dr. Alham Fikri Aji is an Assistant Professor at MBZUAI, holding a Ph.D. from the University of Edinburgh's Institute for Language, Cognition, and Computation. His doctoral research, supervised by Dr. Kenneth Heafield and Dr. Rico Sennrich, focused on enhancing the training and inference speed of machine translation. Dr. Aji's current research centers around multilingual, low-resource, and low-compute Natural Language Processing (NLP). His recent work has been in developing diverse multilingual large language models. and multilingual NLP resources, particularly for underrepresented languages, with a specific emphasis on Indonesian. Dr. Aji has worked at Amazon, Google, and Apple in the past. 
+    </p>
   </div>
 </div>
 <br>
