@@ -16,12 +16,11 @@ css: "/assets/css/index.css"
 ---
 ## Program details
 
-  - ### TBA
+We're excited to host this two-day event in Mexico City, co-located with [NAACL 2024](https://2024.naacl.org/). 
 
+- **First Day (June 14):** Dive into insightful Keynotes and engaging Panels from experts in the field.
+- **Second Day (June 15):** Participate in interactive Tutorials for practical NLP learning experiences.
 
----
-## Registration information
+Don't miss this opportunity for valuable learning and networking in the field of Natural Language Processing!
 
-**Registration will be open soon, stay tuned!!!**
-
-We are looking forward to welcoming you to this great event!!
+[Information about registration](/registration/)

@@ -52,7 +52,7 @@ css: "/assets/css/index.css"
     </p>
   </div>
 </div>
-<br>
+<!-- <br>
   <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <img src="{{'/assets/images/speakers/speaker_lena.jpeg'| relative_url }}" alt="speaker_veronica_perez" width="300" />
@@ -73,7 +73,7 @@ css: "/assets/css/index.css"
 </p>
   </div>
 </div>
-<br>
+<br> -->
 
 
 
