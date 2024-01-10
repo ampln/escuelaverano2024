@@ -23,4 +23,4 @@ We're excited to host this two-day event in Mexico City, co-located with [NAACL 
 
 Don't miss this opportunity for valuable learning and networking in the field of Natural Language Processing!
 
-[Information about registration](/registration/)
+[Information about registration](/escuelaverano2024/registration/)

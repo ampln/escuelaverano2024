@@ -8,7 +8,7 @@ title: Sponsors
 
 Our summer school is a collective effort made possible by the dedication of many. If you're enthusiastic about volunteering for our 2024 edition, we'd love to hear from you! Please feel free to [contact us](mailto:pastor.lopez@cimat.mx) and join our team.
 
-Interested in sponsoring? Your support can make a big difference. For details on sponsorship opportunities and benefits, please check our [Sponsor Policy](/sponsor_policy/).
+Interested in sponsoring? Your support can make a big difference. For details on sponsorship opportunities and benefits, please check our [Sponsor Policy](/escuelaverano2024/sponsor_policy/).
 
 #### Organizations:
 
