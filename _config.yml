@@ -15,15 +15,17 @@ author: AMPLN
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Speakers: "speakers"
-  Program: "program"
-  About: "about"
-  Code of Conduct: "CodigoConducta"
-  Organizers: "chairs"
+  Program information:
+    - Speakers: "speakers"
+    - Program   : "program"
+  Registration: "registration"
+  About the school:
+    - About: "about"
+    - Organizers: "chairs"
+    - Previous editions : "previousEditions"
+    - Code of Conduct: "CodigoConducta"
   Sponsors: "sponsors"
-  Previous editions : "previousEditions"
   Contact: "contact"
-
 
 # --- Logo --- #
 
