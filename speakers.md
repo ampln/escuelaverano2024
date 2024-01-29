@@ -31,7 +31,7 @@ css: "/assets/css/index.css"
 
   <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="{{'/assets/images/speakers/speaker_danae.jpeg'| relative_url }}" alt="speaker_veronica_perez" width="300" />
+    <img src="{{'/assets/images/speakers/speaker_danae.jpeg'| relative_url }}" alt="speaker_danae" width="300" />
   </div>
   <div style="flex: 2; padding-left: 20px; font-size: 14px;">
     <h4>Danae Sánchez</h4>
@@ -43,7 +43,7 @@ css: "/assets/css/index.css"
 
   <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="{{'/assets/images/speakers/speaker_aji.jpeg'| relative_url }}" alt="speaker_veronica_perez" width="300" />
+    <img src="{{'/assets/images/speakers/speaker_aji.jpeg'| relative_url }}" alt="speaker_aji" width="300" />
   </div>
   <div style="flex: 2; padding-left: 20px; font-size: 14px;">
     <h4>Alham Fikri Aji</h4>
@@ -52,6 +52,22 @@ css: "/assets/css/index.css"
     </p>
   </div>
 </div>
+
+<br>
+
+  <div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <img src="{{'/assets/images/speakers/speaker_sudipta.jpeg'| relative_url }}" alt="speaker_sudipta" width="300" />
+  </div>
+  <div style="flex: 2; padding-left: 20px; font-size: 14px;">
+    <h4>Sudipta Kar</h4>
+    <p>
+  Sudipta Kar is a Senior Applied Scientist at Amazon AGI. He received his Ph.D. in Computer Science from the University of Houston in 2020 under the supervision of Thamar Solorio. His doctoral research focused on creative text analysis. Currently, he works on developing intelligent systems to enable seamless proactivity in smart voice assistants such as Alexa. His research interests include computational systems for low-resource languages, language models, and information extraction.
+  He has co-organized multiple natural language processing workshops and shared tasks, including BLP, CALCS, MultiCoNER, and SentiMix. Additionally, in 2023 he led the first NLP hackathon held in Bangladesh. 
+    </p>
+  </div>
+</div>
+
 <!-- <br>
   <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
