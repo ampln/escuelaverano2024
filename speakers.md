@@ -68,7 +68,7 @@ css: "/assets/css/index.css"
   </div>
 </div>
 
-<!-- <br>
+<br>
   <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <img src="{{'/assets/images/speakers/speaker_lena.jpeg'| relative_url }}" alt="speaker_veronica_perez" width="300" />
@@ -78,7 +78,8 @@ css: "/assets/css/index.css"
     <p>Lena obtained her Ph.D. at the University of Edinburgh, supervised by Ivan Titov and Rico Sennrich, where she was awarded the Facebook PhD Fellowship. She also worked at Yandex as a Research Scientist. Currently, she is a Research Scientist at Meta AI, working on Analysis and Interpretability for NLP.  She is the current president of SIGREP (ACL) and the creator of the NLP Course For You.</p>
   </div>
 </div>
-<br>
+
+<!-- <br>
  <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <img src="{{'/assets/images/speakers/speaker_jocelyn.jpeg'| relative_url }}" alt="speaker_veronica_perez" width="300" />
