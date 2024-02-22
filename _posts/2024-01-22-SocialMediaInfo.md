@@ -1,5 +1,5 @@
 ---
-title: Mexican NLP Summer School 2024@NAACL 2024
+title: Follow us in X!
 layout: post
 tags: [EscuelaPLN2024]
 subtitle : "Do not miss any update!!!"
