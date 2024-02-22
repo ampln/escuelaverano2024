@@ -44,7 +44,7 @@ css: "/assets/css/index.css"
 		<section id="main-bio">
 			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
 			<h3>Dr. Danae Sánchez</h3>
-      <h4>Researcher at the University of Michigan</h4>
+      <h4>Researcher at the University of Copenhagen</h4>
       <br />
 			<!-- Headshot image -->
 			<img width="225" id="bio-image" src="{{'/assets/images/speakers/speaker_danae.jpeg'| relative_url }}" align="left" alt="speaker_danae" hspace="10" />
