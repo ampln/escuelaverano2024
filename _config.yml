@@ -49,7 +49,7 @@ title-img: "/assets/images/ampln_header.png" #"/assets/images/ampln.png"
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "evillatoro@cua.uam.mx"
+  email: "esau.villatoro@idiap.ch"
   github: ampln
   twitter: AMPLN
 #  reddit: yourname
