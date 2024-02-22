@@ -13,71 +13,159 @@ css: "/assets/css/index.css"
 <!-- Commented above because it repeats the same function as the website navigation bar -->
 
 <!-- Should eventually separate in tutorials/panelists/etc -->
-<!-- ## Speakers  -->
+
+---
+<h1 style="text-align: center;">Tutorials</h1>
+---
+
+<body>
+  <div class="container">
+		<!-- Section 1: Biography -->
+		<section id="main-bio">
+			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
+			<h3>Dr. Sudipta Kar</h3>
+      <h4>Senior Applied Scientist at Amazon AGI</h4>
+      <br />
+			<!-- Headshot image -->
+			<img width="225" id="bio-image" src="{{'/assets/images/speakers/speaker_sudipta.jpeg'| relative_url }}" align="left" alt="speaker_sudipta" hspace="10" />
+     Sudipta Kar is a Senior Applied Scientist at Amazon AGI. He received his Ph.D. in Computer Science from the University of Houston in 2020 under the supervision of Thamar Solorio. His doctoral research focused on creative text analysis. Currently, he works on developing intelligent systems to enable seamless proactivity in smart voice assistants such as Alexa. His research interests include computational systems for low-resource languages, language models, and information extraction.  He has co-organized multiple natural language processing workshops and shared tasks, including BLP, CALCS, MultiCoNER, and SentiMix. Additionally, in 2023 he led the first NLP hackathon held in Bangladesh. 
+
+		</section>
+		<section id="additional-info">
+      <h4>Tutorial title: The Power of Rewards - Reinforcing Language Models with Reinforcement Learning </h4>
+		</section>
+	</div>
+</body>
+
+---
+<body>
+  <div class="container">
+		<!-- Section 1: Biography -->
+		<section id="main-bio">
+			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
+			<h3>Dr. Danae Sánchez</h3>
+      <h4>Researcher at the University of Michigan</h4>
+      <br />
+			<!-- Headshot image -->
+			<img width="225" id="bio-image" src="{{'/assets/images/speakers/speaker_danae.jpeg'| relative_url }}" align="left" alt="speaker_danae" hspace="10" />
+     Danae Sánchez Villegas is a postdoctoral researcher at the University of Copenhagen. She holds a Ph.D. and a Master's degree in Computer Science from the University of Sheffield and a Bachelor's degree in Computer Engineering from the Instituto Tecnológico Autónomo de México. Her research interests include multilingual natural language understanding, vision and language modeling, and computational social science. Danae has worked as a Research Associate in the Natural Language Processing Group at the University of Sheffield and as an Applied Scientist Intern at Amazon Alexa.
+
+		</section>
+		<section id="additional-info">
+      <h4>Tutorial title: Exploring Transformers and Limitations in Language Modeling. </h4>
+      This tutorial explores language modeling techniques in Natural Language Processing (NLP), covering key concepts from traditional approaches to Transformer architectures. Beginning with an introduction to NLP and language modeling, it delves into probabilistic language models and progresses to neural language models, emphasizing the significance of embeddings for semantic representation. Moving on to Transformer models, we will discuss key concepts such as multi-head attention mechanisms, masked language modeling, and encoder models. Additionally, the tutorial addresses the limitations of large language models, providing insights into challenges and considerations for leveraging these models effectively in practical applications.
+		</section>
+	</div>
+</body>
+---
+
+<body>
+  <div class="container">
+		<!-- Section 1: Biography -->
+		<section id="main-bio">
+			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
+			<h3>Dr. Alham Fikri Aji</h3>
+      <h4>Assistant Professor at MBZUAI</h4>
+      <br />
+			<!-- Headshot image -->
+			<img width="225" id="bio-image" src="{{'/assets/images/speakers/speaker_aji.jpeg'| relative_url }}" align="left" alt="speaker_aji" hspace="10" />
+     Dr. Alham Fikri Aji is an Assistant Professor at MBZUAI, holding a Ph.D. from the University of Edinburgh's Institute for Language, Cognition, and Computation. His doctoral research, supervised by Dr. Kenneth Heafield and Dr. Rico Sennrich, focused on enhancing the training and inference speed of machine translation. Dr. Aji's current research centers around multilingual, low-resource, and low-compute Natural Language Processing (NLP). His recent work has been in developing diverse multilingual large language models. and multilingual NLP resources, particularly for underrepresented languages, with a specific emphasis on Indonesian. Dr. Aji has worked at Amazon, Google, and Apple in the past. 
+
+		</section>
+		<section id="additional-info">
+      <h4>Tutorial title: TBD </h4>
+		</section>
+	</div>
+</body>
+---
+
+<body>
+  <div class="container">
+		<!-- Section 1: Biography -->
+		<section id="main-bio">
+			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
+			<h3>Dr. Lena Voita </h3>
+      <h4>Research Scientist at Meta AI</h4>
+      <br />
+			<!-- Headshot image -->
+			<img width="225" id="bio-image" src="{{'/assets/images/speakers/speaker_lena.jpeg'| relative_url }}" align="left" alt="speaker_lena" hspace="10" />
+     Lena obtained her Ph.D. at the University of Edinburgh, supervised by Ivan Titov and Rico Sennrich, where she was awarded the Facebook PhD Fellowship. She also worked at Yandex as a Research Scientist. Currently, she is a Research Scientist at Meta AI, working on Analysis and Interpretability for NLP.  She is the current president of SIGREP (ACL) and the creator of the NLP Course For You.
+
+		</section>
+		<section id="additional-info">
+      <h4>Tutorial title: TBD </h4>
+		</section>
+	</div>
+</body>
 
 <br>
-<!-- ![Alt Text]()  -->
 
-  <div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <img src="{{'/assets/images/speakers/speaker_veronica_perez.jpeg'| relative_url }}" alt="speaker_veronica_perez" width="300" />
-  </div>
-  <div style="flex: 2; padding-left: 20px; font-size: 14px;">
-    <h4>Veronica Perez Rosas</h4>
-    <p>She obtained her Ph.D. in Computer Science and Engineering from the University of North Texas in 2014. She is a Level I Researcher recognized by the National System of Researchers. Currently, she is a researcher at the University of Michigan, where she is a part of the Artificial Intelligence laboratory and the Inform Language and Information Technologies research group in the Department of Computer Science. Her research interests include natural language processing (NLP), machine learning, computational linguistics, and multimodal representations. Her research focuses on NLP applications, including automatic detection of misinformation, NLP in mental health, as well as the detection of human behaviors such as sentiment, deception, sarcasm, and affective response. More information about her research can be found at https://vrncapr.engin.umich.edu/.</p>
-  </div>
-</div>
+---
+<h1 style="text-align: center;">Conferences</h1>
+---
+
+<body>
+  <div class="container">
+		<!-- Section 1: Biography -->
+		<section id="main-bio">
+			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
+			<h3>Dr. Veronica Perez Rosas</h3>
+      <h4>Researcher at the University of Michigan</h4>
+      <br />
+			<!-- Headshot image -->
+			<img width="225" id="bio-image" src="{{'/assets/images/speakers/speaker_veronica_perez.jpeg'| relative_url }}" align="left" alt="Veronica Perez Rosas" hspace="10" />
+     She obtained her Ph.D. in Computer Science and Engineering from the University of North Texas in 2014. She is a Level I Researcher recognized by the National System of Researchers. Currently, she is a researcher at the University of Michigan, where she is a part of the Artificial Intelligence laboratory and the Inform Language and Information Technologies research group in the Department of Computer Science. Her research interests include natural language processing (NLP), machine learning, computational linguistics, and multimodal representations. Her research focuses on NLP applications, including automatic detection of misinformation, NLP in mental health, as well as the detection of human behaviors such as sentiment, deception, sarcasm, and affective response. More information about her research can be found at https://vrncapr.engin.umich.edu/.
+
+		</section>
+		<!-- <section id="additional-info">
+      <h4>Conference title: TBD </h4>
+		</section> -->
+	</div>
+</body>
+---
+
+<body>
+  <div class="container">
+		<!-- Section 1: Biography -->
+		<section id="main-bio">
+			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
+			<h3>Dr. Jocelyn Dunstan</h3>
+      <h4>Assistant Professor at the Pontifical Catholic University of Chile.</h4>
+      <br />
+			<!-- Headshot image -->
+			<img width="225" id="bio-image" src="{{'/assets/images/speakers/speaker_jocelyn.jpeg'| relative_url }}" align="left" alt="speaker_jocelyn" hspace="10" />
+     Jocelyn Dunstan is an Assistant Professor at the Pontifical Catholic University of Chile. She holds a Ph.D. in Applied Mathematics and Theoretical Physics from the University of Cambridge in the UK. She specializes in leveraging machine learning and natural language processing to address key challenges. Her research primarily revolves around clinical text mining and patient prioritization. In addition to her academic role at the Catholic University of Chile, she is actively engaged as a researcher at prominent institutions such as the Center for Mathematical Modeling (CMM), the Millenium Institute for Foundational Research on Data (IMFD), and the Institute for Intelligent Healthcare Engineering (iHealth). Further information about her group's work can be found on their webpage at pln.cmm.uchile.cl. 
+
+		</section>
+		<!-- <section id="additional-info">
+      <h4>Conference title: TBD </h4>
+		</section> -->
+	</div>
+</body>
+---
+
+<body>
+  <div class="container">
+		<!-- Section 1: Biography -->
+		<section id="main-bio">
+			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
+			<h3>Dr. Luciana Benotti</h3>
+      <h4>Associate Professor at the Universidad Nacional de Córdoba and Researcher at CONICET,.</h4>
+      <br />
+			<!-- Headshot image -->
+			<img width="225" id="bio-image" src="{{'/assets/images/speakers/speaker_benotti.jpeg'| relative_url }}" align="left" alt="speaker_benotti" hspace="10" />
+     Luciana Benotti is an Associate Professor in Computer Science at the Universidad Nacional de Córdoba and a Researcher in Artificial Intelligence at CONICET, Argentina. Her research interests include different aspects of situated and interactive natural language processing, like interpreting noisy user-generated text, generating clarification requests and deciding when to talk in a dialogue system, among others. She is particularly interested in non-linguistic features that contribute to the meaning conveyed during a conversation. Such features include the conversational participants’ profile, conversational timing, visual context, etc. She has been an invited scientist at University of Trento (2019), Stanford University (2018), Roskilde University (2014), Universidad de Costa Rica (2012), and University of Southern California (2010). She received a PhD in Computer Science from Université Henri Poincaré (Loria/INRIA) in France in 2010.
+
+		</section>
+		<!-- <section id="additional-info">
+      <h4>Conference title: TBD </h4>
+		</section> -->
+	</div>
+</body>
+---
+
 <br>
-
-  <div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <img src="{{'/assets/images/speakers/speaker_danae.jpeg'| relative_url }}" alt="speaker_danae" width="300" />
-  </div>
-  <div style="flex: 2; padding-left: 20px; font-size: 14px;">
-    <h4>Danae Sánchez</h4>
-    <p>Danae Sánchez is a Research Associate in the Natural Language Processing group at the University of Sheffield. She holds a Ph.D. and an MSc in Computer Science from the University of Sheffield, as well as a Bachelor's degree in Computer Engineering from the Instituto Tecnológico Autónomo de México. She has worked as an Applied Scientist Intern at Amazon in London and as a data scientist at deep_dive, a startup based in Mexico City. Her research interests include natural language processing, vision and language modelling, and computational social science.</p>
-  </div>
-</div>
-
-<br>
-
-  <div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <img src="{{'/assets/images/speakers/speaker_aji.jpeg'| relative_url }}" alt="speaker_aji" width="300" />
-  </div>
-  <div style="flex: 2; padding-left: 20px; font-size: 14px;">
-    <h4>Alham Fikri Aji</h4>
-    <p>
-    Dr. Alham Fikri Aji is an Assistant Professor at MBZUAI, holding a Ph.D. from the University of Edinburgh's Institute for Language, Cognition, and Computation. His doctoral research, supervised by Dr. Kenneth Heafield and Dr. Rico Sennrich, focused on enhancing the training and inference speed of machine translation. Dr. Aji's current research centers around multilingual, low-resource, and low-compute Natural Language Processing (NLP). His recent work has been in developing diverse multilingual large language models. and multilingual NLP resources, particularly for underrepresented languages, with a specific emphasis on Indonesian. Dr. Aji has worked at Amazon, Google, and Apple in the past. 
-    </p>
-  </div>
-</div>
-
-<br>
-
-  <div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <img src="{{'/assets/images/speakers/speaker_sudipta.jpeg'| relative_url }}" alt="speaker_sudipta" width="300" />
-  </div>
-  <div style="flex: 2; padding-left: 20px; font-size: 14px;">
-    <h4>Sudipta Kar</h4>
-    <p>
-  Sudipta Kar is a Senior Applied Scientist at Amazon AGI. He received his Ph.D. in Computer Science from the University of Houston in 2020 under the supervision of Thamar Solorio. His doctoral research focused on creative text analysis. Currently, he works on developing intelligent systems to enable seamless proactivity in smart voice assistants such as Alexa. His research interests include computational systems for low-resource languages, language models, and information extraction.
-  He has co-organized multiple natural language processing workshops and shared tasks, including BLP, CALCS, MultiCoNER, and SentiMix. Additionally, in 2023 he led the first NLP hackathon held in Bangladesh. 
-    </p>
-  </div>
-</div>
-
-<br>
-  <div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <img src="{{'/assets/images/speakers/speaker_lena.jpeg'| relative_url }}" alt="speaker_veronica_perez" width="300" />
-  </div>
-  <div style="flex: 2; padding-left: 20px; font-size: 14px;">
-    <h4>Lena Voita</h4>
-    <p>Lena obtained her Ph.D. at the University of Edinburgh, supervised by Ivan Titov and Rico Sennrich, where she was awarded the Facebook PhD Fellowship. She also worked at Yandex as a Research Scientist. Currently, she is a Research Scientist at Meta AI, working on Analysis and Interpretability for NLP.  She is the current president of SIGREP (ACL) and the creator of the NLP Course For You.</p>
-  </div>
-</div>
+  
 
 <!-- <br>
  <div style="display: flex; align-items: center;">
