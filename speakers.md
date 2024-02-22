@@ -101,7 +101,7 @@ css: "/assets/css/index.css"
 <br>
 
 ---
-<h1 style="text-align: center;">Conferences</h1>
+<h1 style="text-align: center;">Panelists</h1>
 ---
 
 <body>
@@ -150,7 +150,7 @@ css: "/assets/css/index.css"
 		<section id="main-bio">
 			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
 			<h3>Dr. Luciana Benotti</h3>
-      <h4>Associate Professor at the Universidad Nacional de Córdoba and Researcher at CONICET,.</h4>
+      <h4>Associate Professor at the Universidad Nacional de Córdoba and Researcher at CONICET.</h4>
       <br />
 			<!-- Headshot image -->
 			<img width="225" id="bio-image" src="{{'/assets/images/speakers/speaker_benotti.jpeg'| relative_url }}" align="left" alt="speaker_benotti" hspace="10" />
