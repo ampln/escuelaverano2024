@@ -78,26 +78,6 @@ css: "/assets/css/index.css"
 		</section>
 	</div>
 </body>
----
-
-<body>
-  <div class="container">
-		<!-- Section 1: Biography -->
-		<section id="main-bio">
-			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
-			<h3>Dr. Lena Voita </h3>
-      <h4>Research Scientist at Meta AI</h4>
-      <br />
-			<!-- Headshot image -->
-			<img width="225" id="bio-image" src="{{'/assets/images/speakers/speaker_lena.jpeg'| relative_url }}" align="left" alt="speaker_lena" hspace="10" />
-     Lena obtained her Ph.D. at the University of Edinburgh, supervised by Ivan Titov and Rico Sennrich, where she was awarded the Facebook PhD Fellowship. She also worked at Yandex as a Research Scientist. Currently, she is a Research Scientist at Meta AI, working on Analysis and Interpretability for NLP.  She is the current president of SIGREP (ACL) and the creator of the NLP Course For You.
-
-		</section>
-		<section id="additional-info">
-      <h4>Tutorial title: TBD </h4>
-		</section>
-	</div>
-</body>
 
 <br>
 
@@ -136,26 +116,6 @@ css: "/assets/css/index.css"
 			<!-- Headshot image -->
 			<img width="225" id="bio-image" src="{{'/assets/images/speakers/speaker_jocelyn.jpeg'| relative_url }}" align="left" alt="speaker_jocelyn" hspace="10" />
      Jocelyn Dunstan is an Assistant Professor at the Pontifical Catholic University of Chile. She holds a Ph.D. in Applied Mathematics and Theoretical Physics from the University of Cambridge in the UK. She specializes in leveraging machine learning and natural language processing to address key challenges. Her research primarily revolves around clinical text mining and patient prioritization. In addition to her academic role at the Catholic University of Chile, she is actively engaged as a researcher at prominent institutions such as the Center for Mathematical Modeling (CMM), the Millenium Institute for Foundational Research on Data (IMFD), and the Institute for Intelligent Healthcare Engineering (iHealth). Further information about her group's work can be found on their webpage at pln.cmm.uchile.cl. 
-
-		</section>
-		<!-- <section id="additional-info">
-      <h4>Conference title: TBD </h4>
-		</section> -->
-	</div>
-</body>
----
-
-<body>
-  <div class="container">
-		<!-- Section 1: Biography -->
-		<section id="main-bio">
-			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
-			<h3>Dr. Luciana Benotti</h3>
-      <h4>Associate Professor at the Universidad Nacional de Córdoba and Researcher at CONICET.</h4>
-      <br />
-			<!-- Headshot image -->
-			<img width="225" id="bio-image" src="{{'/assets/images/speakers/speaker_benotti.jpeg'| relative_url }}" align="left" alt="speaker_benotti" hspace="10" />
-     Luciana Benotti is an Associate Professor in Computer Science at the Universidad Nacional de Córdoba and a Researcher in Artificial Intelligence at CONICET, Argentina. Her research interests include different aspects of situated and interactive natural language processing, like interpreting noisy user-generated text, generating clarification requests and deciding when to talk in a dialogue system, among others. She is particularly interested in non-linguistic features that contribute to the meaning conveyed during a conversation. Such features include the conversational participants’ profile, conversational timing, visual context, etc. She has been an invited scientist at University of Trento (2019), Stanford University (2018), Roskilde University (2014), Universidad de Costa Rica (2012), and University of Southern California (2010). She received a PhD in Computer Science from Université Henri Poincaré (Loria/INRIA) in France in 2010.
 
 		</section>
 		<!-- <section id="additional-info">
