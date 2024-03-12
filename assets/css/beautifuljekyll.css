@@ -994,8 +994,15 @@ pre {
 }
 
 
+/* Wrapper around tab buttons to center them */
+.tab-wrapper {
+  text-align: center;
+}
+
 /* Style the tab */
 .tab {
+  display: inline-block;
+  margin: 0 auto;
   overflow: hidden;
   border: 1px solid #ccc;
   background-color: #f1f1f1;
@@ -1004,12 +1011,11 @@ pre {
 /* Style the buttons inside the tab */
 .tab button {
   background-color: inherit;
-  float: left;
   border: none;
   outline: none;
   cursor: pointer;
-  padding: 14px 16px;
-  transition: 0.3s;
+  padding: 14px 26px;
+  transition: 0.5s;
   font-size: 17px;
 }
 

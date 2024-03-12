@@ -14,11 +14,14 @@ css: "/assets/css/index.css"
 
 <!-- Should eventually separate in tutorials/panelists/etc -->
 
-<div class="tab">
-  <button class="tablinks" onclick="openSection(event, 'Keynotes')"  id="defaultOpen"><strong>Keynotes</strong></button>
-  <button class="tablinks" onclick="openSection(event, 'Tutorials')"><strong>Tutorials</strong></button>
-  <button class="tablinks" onclick="openSection(event, 'Panels')"><strong>Panels</strong></button>
+<div class="tab-wrapper">
+	<div class="tab">
+	<button class="tablinks" onclick="openSection(event, 'Keynotes')"  id="defaultOpen"><strong>Keynotes</strong></button>
+	<button class="tablinks" onclick="openSection(event, 'Tutorials')"><strong>Tutorials</strong></button>
+	<button class="tablinks" onclick="openSection(event, 'Panels')"><strong>Panels</strong></button>
+	</div>
 </div>
+
 
 <!-- Section 1: Biography -->
 <div id="Tutorials" class="tabcontent">
