@@ -1001,9 +1001,9 @@ pre {
   border: none;
   outline: none;
   cursor: pointer;
-  padding: 14px 26px;
-  transition: 0.5s;
-  font-size: 17px;
+  padding: 14px 16px;
+  transition: 0.7s;
+  font-size: 20px;
 }
 
 /* Change background color of buttons on hover */
