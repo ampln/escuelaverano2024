@@ -75,7 +75,7 @@ css: "/assets/css/index.css"
 		<br><br><br><br><br><br><br><br><br>
 		</section>
 		<section id="additional-info">
-      <h4>Tutorial title: TBD </h4>
+      <h4>Tutorial title: Introducciòn a los mecanismos de atención en transformers </h4>
 		</section>
 </div>
 
