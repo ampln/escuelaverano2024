@@ -72,7 +72,7 @@ css: "/assets/css/index.css"
       <h4>Professor at UNAM, Mexico.</h4>
       <br />
 			<img width="225" id="bio-image" src="{{'/assets/images/speakers/speaker_victor.jpeg'| relative_url }}" align="left" alt="speaker_victor" hspace="10" /> 
-		<br><br><br><br><br><br><br><br><br>
+		Víctor Mijangos is an Associate Professor in the Department of Mathematics at UNAM, Mexico, his research is focused on Computational Linguistics, specifically in areas like Morphology, Morphological Complexity, statistical applications for linguistics, and the study of Otomanguean languages. He earned his PhD in Linguistics from the Instituto de Investigaciones Filológicas, UNAM. In addition to his academic pursuits, Dr. Mijangos has dedicated efforts to the development of language technologies for Mexican indigenous languages, working as a volunteer with Elotl Community. Here, he has contributed to the creation of an automatic system for glossing sentences in Otomi. His work reflects a strong commitment to both his field of study and the broader social impact of linguistic preservation.
 		</section>
 		<section id="additional-info">
       <h4>Tutorial title: Introduction to Attention Mechanisms in Transformers.</h4>
