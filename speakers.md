@@ -75,7 +75,9 @@ css: "/assets/css/index.css"
 		<br><br><br><br><br><br><br><br><br>
 		</section>
 		<section id="additional-info">
-      <h4>Tutorial title: Introducciòn a los mecanismos de atención en transformers </h4>
+      <h4>Tutorial title: Introduction to Attention Mechanisms in Transformers.</h4>
+	  Attention layers are currently central mechanisms in language models. Transformers, which represent the state of the art in this field, rely on the use of attention layers in combination with other strategies. Attention has also been used in models based on sequence-to-sequence recurrent networks, providing significant improvements in natural language processing tasks such as machine translation and text generation. Understanding how these mechanisms work is essential to comprehend current language models. This workshop aims to present a first approach to the attention mechanisms used in neural networks. Firstly, the basic theoretical concepts to understand attention and its operation will be presented, other attention mechanisms, mainly sparse attention, will be reviewed, and the relationship of attention with auto-encoded and auto-regressive language models will be discussed. Finally, its relationship with other mechanisms such as convolutional layers and graph layers, highlighting their advantages and disadvantages, will be addressed.
+Secondly, the technical principles for the implementation of attention mechanisms in Pytorch and their incorporation within the architecture of Transformers will be covered.
 		</section>
 </div>
 
