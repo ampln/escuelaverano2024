@@ -63,7 +63,7 @@ css: "/assets/css/index.css"
      Dr. Alham Fikri Aji is an Assistant Professor at MBZUAI, holding a Ph.D. from the University of Edinburgh's Institute for Language, Cognition, and Computation. His doctoral research, supervised by Dr. Kenneth Heafield and Dr. Rico Sennrich, focused on enhancing the training and inference speed of machine translation. Dr. Aji's current research centers around multilingual, low-resource, and low-compute Natural Language Processing (NLP). His recent work has been in developing diverse multilingual large language models. and multilingual NLP resources, particularly for underrepresented languages, with a specific emphasis on Indonesian. Dr. Aji has worked at Amazon, Google, and Apple in the past. 
 		</section>
 		<section id="additional-info">
-      <h4>Tutorial title: TBD </h4>
+      <h4>Tutorial title: Training Lightweight Model via Knowledge Distillation and Parameter Efficient Finetuning </h4>
 		</section>
 	<hr>
 	<section id="main-bio">
