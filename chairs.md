@@ -47,7 +47,7 @@ title: Organizing Committee
 ### Publicity and Web Committee
 * [Dr. Esaú Villatoro Tello](https://www.idiap.ch/~evillatoro/) [![alt text][1.2]][3]
 * [Dr. Ivan Vladimir Meza Ruiz](http://turing.iimas.unam.mx/~ivanvladimir/) [![alt text][1.2]][8]
-* [Dr. Belem Priego Sánchez](http://aisii.azc.uam.mx/AASII2/07_AngelesPriego.html) [![alt text][1.2]][11]
+* [Dra. Angeles Belém Priego Sánchez](http://aisii.azc.uam.mx/AASII2/07_AngelesPriego.html) [![alt text][1.2]][11]
 * [Emilio Villa Cueva (MSc student)](https://villacu.github.io/)
 
 
@@ -61,3 +61,4 @@ title: Organizing Committee
 * [Universidad Tecnológica de Nogales, Sonora](http://utnogales.edu.mx/tic/#)
 * [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/)
 * [Idiap Research Institute](https://www.idiap.ch/en)
+* [Universidad Autónoma Metropolitana Unidad Azcapotzalco](https://www.azc.uam.mx/)
