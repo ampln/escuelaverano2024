@@ -64,6 +64,7 @@ css: "/assets/css/index.css"
 		</section>
 		<section id="additional-info">
       <h4>Tutorial title: Training Lightweight Model via Knowledge Distillation and Parameter Efficient Finetuning </h4>
+	  Language models can be resource-hungry and prohibitive to train and deploy for many people due to a lack of proper computing resources. In this tutorial, we delve into how to build smaller, more lightweight models without sacrificing quality via knowledge distillation. Additionally, we delve into training your model with less memory usage through parameter-efficient finetuning. In this tutorial, we will delve into the hands-on implementation. It is ideal for those just delving into the field of AI/NLP.
 		</section>
 	<hr>
 	<section id="main-bio">
