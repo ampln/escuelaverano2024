@@ -24,31 +24,31 @@ title: Organizing Committee
 
 
 ### Organizing Committee
-* [Dr. Thamar Solorio](https://mbzuai.ac.ae/study/faculty/thamar-solorio/)  [![alt text][1.2]][1]
-* [Dr. Ximena Gutierrez](https://www.spur.uzh.ch/en/aboutus/Personen/staff/postdocs/Ximena-Gutierrez-Vasques.html) [![alt text][1.2]][2]
-* [Dr. Adrian Pastor López Monroy](http://personal.cimat.mx:8181/~pastor.lopez/) [![alt text][1.2]][6]
-* [Dr. Samuel Gonzáles López](http://samuelgonzalez-lopez.com/) [![alt text][1.2]][5]
-* [Dr. Esaú Villatoro Tello](https://www.idiap.ch/~evillatoro/) [![alt text][1.2]][3]
+* [Thamar Solorio](https://mbzuai.ac.ae/study/faculty/thamar-solorio/)  [![alt text][1.2]][1]
+* [Ximena Gutierrez](https://www.spur.uzh.ch/en/aboutus/Personen/staff/postdocs/Ximena-Gutierrez-Vasques.html) [![alt text][1.2]][2]
+* [Adrian Pastor López Monroy](http://personal.cimat.mx:8181/~pastor.lopez/) [![alt text][1.2]][6]
+* [Samuel Gonzáles López](http://samuelgonzalez-lopez.com/) [![alt text][1.2]][5]
+* [Esaú Villatoro Tello](https://www.idiap.ch/~evillatoro/) [![alt text][1.2]][3]
 
 ----------
 ### Registration Committee
-* [Dra. Delia Irazú Hernández Farías]() 
-* [Dr. Jesús Miguel García Gorrostieta]() 
-* [Dr. Fernando Sánchez Vega]() 
-* [Dr. Miguel Angel Alvarez Carmona]() 
-* [Dra. Rosa María Ortega Mendoza]() 
+* [Delia Irazú Hernández Farías]() 
+* [Jesús Miguel García Gorrostieta]() 
+* [Fernando Sánchez Vega]() 
+* [Miguel Angel Alvarez Carmona]() 
+* [Rosa María Ortega Mendoza]() 
 
 ----------
 ### Sponsorship and Funding Committee
-* [Dr. Thamar Solorio](https://mbzuai.ac.ae/study/faculty/thamar-solorio/)  [![alt text][1.2]][1]
-* [Dr. Diana Galvan](https://dianags.github.io/) [![alt text][1.2]][10]
+* [Thamar Solorio](https://mbzuai.ac.ae/study/faculty/thamar-solorio/)  [![alt text][1.2]][1]
+* [Diana Galvan](https://dianags.github.io/) [![alt text][1.2]][10]
 
 ----------
 ### Publicity and Web Committee
-* [Dr. Esaú Villatoro Tello](https://www.idiap.ch/~evillatoro/) [![alt text][1.2]][3]
-* [Dr. Ivan Vladimir Meza Ruiz](http://turing.iimas.unam.mx/~ivanvladimir/) [![alt text][1.2]][8]
-* [Dra. Angeles Belém Priego Sánchez](http://aisii.azc.uam.mx/AASII2/07_AngelesPriego.html) [![alt text][1.2]][11]
-* [Emilio Villa Cueva (MSc student)](https://villacu.github.io/)
+* [Esaú Villatoro Tello](https://www.idiap.ch/~evillatoro/) [![alt text][1.2]][3]
+* [Ivan Vladimir Meza Ruiz](http://turing.iimas.unam.mx/~ivanvladimir/) [![alt text][1.2]][8]
+* [Angeles Belém Priego Sánchez](http://aisii.azc.uam.mx/AASII2/07_AngelesPriego.html) [![alt text][1.2]][11]
+* [Emilio Villa Cueva](https://villacu.github.io/)
 
 
 ----------

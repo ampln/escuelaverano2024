@@ -27,12 +27,12 @@ css: "/assets/css/index.css"
 <div id="Tutorials" class="tabcontent">
  <section id="main-bio">
 			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
-			<h3>Dr. Sudipta Kar</h3>
+			<h3>Sudipta Kar</h3>
       <h4>Senior Applied Scientist at Amazon AGI</h4>
       <br />
 			<!-- Headshot image -->
 			<img width="225" id="bio-image" src="{{'/assets/images/speakers/speaker_sudipta.jpeg'| relative_url }}" align="left" alt="speaker_sudipta" hspace="10" />
-     Sudipta Kar is a Senior Applied Scientist at Amazon AGI. He received his Ph.D. in Computer Science from the University of Houston in 2020 under the supervision of Thamar Solorio. His doctoral research focused on creative text analysis. Currently, he works on developing intelligent systems to enable seamless proactivity in smart voice assistants such as Alexa. His research interests include computational systems for low-resource languages, language models, and information extraction.  He has co-organized multiple natural language processing workshops and shared tasks, including BLP, CALCS, MultiCoNER, and SentiMix. Additionally, in 2023 he led the first NLP hackathon held in Bangladesh. 
+     <a href="https://sudiptakar.info/">Sudipta Kar</a> is a Senior Applied Scientist at Amazon AGI. He received his Ph.D. in Computer Science from the University of Houston in 2020 under the supervision of Thamar Solorio. His doctoral research focused on creative text analysis. Currently, he works on developing intelligent systems to enable seamless proactivity in smart voice assistants such as Alexa. His research interests include computational systems for low-resource languages, language models, and information extraction.  He has co-organized multiple natural language processing workshops and shared tasks, including BLP, CALCS, MultiCoNER, and SentiMix. Additionally, in 2023 he led the first NLP hackathon held in Bangladesh. 
 		</section>
 		<section id="additional-info">
       <h4>Tutorial title: The Power of Rewards - Reinforcing Language Models with Reinforcement Learning </h4>
@@ -41,12 +41,12 @@ css: "/assets/css/index.css"
 		<hr>
 		<section id="main-bio">
 			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
-			<h3>Dr. Danae Sánchez</h3>
+			<h3>Danae Sánchez</h3>
       <h4>Researcher at the University of Copenhagen</h4>
       <br />
 			<!-- Headshot image -->
 			<img width="225" id="bio-image" src="{{'/assets/images/speakers/speaker_danae.jpeg'| relative_url }}" align="left" alt="speaker_danae" hspace="10" />
-     Danae Sánchez Villegas is a postdoctoral researcher at the University of Copenhagen. She holds a Ph.D. and a Master's degree in Computer Science from the University of Sheffield and a Bachelor's degree in Computer Engineering from the Instituto Tecnológico Autónomo de México. Her research interests include multilingual natural language understanding, vision and language modeling, and computational social science. Danae has worked as a Research Associate in the Natural Language Processing Group at the University of Sheffield and as an Applied Scientist Intern at Amazon Alexa.
+     <a href="https://danaesavi.github.io/">Danae Sánchez Villegas</a> is a postdoctoral researcher at the University of Copenhagen. She holds a Ph.D. and a Master's degree in Computer Science from the University of Sheffield and a Bachelor's degree in Computer Engineering from the Instituto Tecnológico Autónomo de México. Her research interests include multilingual natural language understanding, vision and language modeling, and computational social science. Danae has worked as a Research Associate in the Natural Language Processing Group at the University of Sheffield and as an Applied Scientist Intern at Amazon Alexa.
 		</section>
 		<section id="additional-info">
       <h4>Tutorial title: Exploring Transformers and Limitations in Language Modeling. </h4>
@@ -55,12 +55,12 @@ css: "/assets/css/index.css"
 		<hr>
 		<section id="main-bio">
 			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
-			<h3>Dr. Alham Fikri Aji</h3>
+			<h3>Alham Fikri Aji</h3>
       <h4>Assistant Professor at MBZUAI, UAE.</h4>
       <br />
 			<!-- Headshot image -->
 			<img width="225" id="bio-image" src="{{'/assets/images/speakers/speaker_aji.jpeg'| relative_url }}" align="left" alt="speaker_aji" hspace="10" />
-     Dr. Alham Fikri Aji is an Assistant Professor at MBZUAI, holding a Ph.D. from the University of Edinburgh's Institute for Language, Cognition, and Computation. His doctoral research, supervised by Dr. Kenneth Heafield and Dr. Rico Sennrich, focused on enhancing the training and inference speed of machine translation. Dr. Aji's current research centers around multilingual, low-resource, and low-compute Natural Language Processing (NLP). His recent work has been in developing diverse multilingual large language models. and multilingual NLP resources, particularly for underrepresented languages, with a specific emphasis on Indonesian. Dr. Aji has worked at Amazon, Google, and Apple in the past. 
+     <a href="https://afaji.github.io/">Alham Fikri Aji</a> is an Assistant Professor at MBZUAI, holding a Ph.D. from the University of Edinburgh's Institute for Language, Cognition, and Computation. His doctoral research, supervised by Dr. Kenneth Heafield and Dr. Rico Sennrich, focused on enhancing the training and inference speed of machine translation. Dr. Aji's current research centers around multilingual, low-resource, and low-compute Natural Language Processing (NLP). His recent work has been in developing diverse multilingual large language models. and multilingual NLP resources, particularly for underrepresented languages, with a specific emphasis on Indonesian. He has worked at Amazon, Google, and Apple in the past. 
 		</section>
 		<section id="additional-info">
       <h4>Tutorial title: Training Lightweight Model via Knowledge Distillation and Parameter Efficient Finetuning </h4>
@@ -69,11 +69,11 @@ css: "/assets/css/index.css"
 	<hr>
 	<section id="main-bio">
 			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
-			<h3>Dr. Víctor Mijangos</h3>
+			<h3>Víctor Mijangos</h3>
       <h4>Professor at UNAM, Mexico.</h4>
       <br />
 			<img width="225" id="bio-image" src="{{'/assets/images/speakers/speaker_victor.jpeg'| relative_url }}" align="left" alt="speaker_victor" hspace="10" /> 
-		Víctor Mijangos de la Cruz is a Full-Time Professor at the Faculty of Sciences, where he teaches subjects related to Artificial Intelligence, Neural Networks, and Computational Linguistics. In addition to teaching, he develops research projects aimed at exploring inductive biases in neural networks and the application of deep learning models for the development of technologies in indigenous languages. His interests lie in the study of the capabilities and limitations of deep learning, computational linguistics, and the creation of technologies for indigenous languages, particularly in the Otomí language.
+		<a href="https://sites.google.com/site/victormijangoscruz/">Víctor Mijangos de la Cruz</a> is a Full-Time Professor at the Faculty of Sciences, where he teaches subjects related to Artificial Intelligence, Neural Networks, and Computational Linguistics. In addition to teaching, he develops research projects aimed at exploring inductive biases in neural networks and the application of deep learning models for the development of technologies in indigenous languages. His interests lie in the study of the capabilities and limitations of deep learning, computational linguistics, and the creation of technologies for indigenous languages, particularly in the Otomí language.
 		</section>
 		<section id="additional-info">
       <h4>Tutorial title: Introduction to Attention Mechanisms in Transformers.</h4>
@@ -86,12 +86,12 @@ Secondly, the technical principles for the implementation of attention mechanism
 <div id="Keynotes" class="tabcontent">
 <section id="main-bio">
 			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
-			<h3>Dr. Diyi Yang</h3>
+			<h3>Diyi Yang</h3>
       <h4> Assistant Professor at Stanford</h4>
       <br />
 			<!-- Headshot image -->
 			<img width="225" id="bio-image" src="{{'/assets/images/speakers/speaker_diyi.jpeg'| relative_url }}" align="left" alt="Diyi Yang" hspace="10" />
-     	Diyi Yang is an assistant professor in the Computer Science Department at Stanford University, also affiliated with the Stanford NLP Group, Stanford HCI Group and Stanford Human Centered AI Institute. Her research focuses on human-centered natural language processing and computational social science.  She is a recipient of  IEEE “AI 10 to Watch” (2020), Microsoft Research Faculty Fellowship (2021),  NSF CAREER Award (2022), an ONR Young Investigator Award (2023), and a Sloan Research Fellowship (2024).   Her work has received multiple paper awards or nominations at top NLP and HCI conferences, (e.g., Best Paper Honorable Mention at ICWSM 2016, Best Paper Honorable Mention at SIGCHI 2019, and Outstanding Paper at ACL 2022). 
+     	<a href="https://cs.stanford.edu/~diyiy/">Diyi Yang</a> is an assistant professor in the Computer Science Department at Stanford University, also affiliated with the Stanford NLP Group, Stanford HCI Group and Stanford Human Centered AI Institute. Her research focuses on human-centered natural language processing and computational social science.  She is a recipient of  IEEE “AI 10 to Watch” (2020), Microsoft Research Faculty Fellowship (2021),  NSF CAREER Award (2022), an ONR Young Investigator Award (2023), and a Sloan Research Fellowship (2024).   Her work has received multiple paper awards or nominations at top NLP and HCI conferences, (e.g., Best Paper Honorable Mention at ICWSM 2016, Best Paper Honorable Mention at SIGCHI 2019, and Outstanding Paper at ACL 2022). 
 		</section>
 		<section id="additional-info">
       <h4>Keynote: Human Centered NLP for Positive Impact</h4>
@@ -100,22 +100,22 @@ Secondly, the technical principles for the implementation of attention mechanism
 	<hr>
   <section id="main-bio">
 			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
-			<h3>Dr. Veronica Perez Rosas</h3>
+			<h3>Veronica Perez Rosas</h3>
       <h4>Researcher at the University of Michigan</h4>
       <br />
 			<!-- Headshot image -->
 			<img width="225" id="bio-image" src="{{'/assets/images/speakers/speaker_veronica_perez.jpeg'| relative_url }}" align="left" alt="Veronica Perez Rosas" hspace="10" />
-     She obtained her Ph.D. in Computer Science and Engineering from the University of North Texas in 2014. She is a Level I Researcher recognized by the National System of Researchers. Currently, she is a researcher at the University of Michigan, where she is a part of the Artificial Intelligence laboratory and the Inform Language and Information Technologies research group in the Department of Computer Science. Her research interests include natural language processing (NLP), machine learning, computational linguistics, and multimodal representations. Her research focuses on NLP applications, including automatic detection of misinformation, NLP in mental health, as well as the detection of human behaviors such as sentiment, deception, sarcasm, and affective response. More information about her research can be found at https://vrncapr.engin.umich.edu/.
+     <a href="https://vrncapr.engin.umich.edu/">Veronica Perez Rosas</a> obtained her Ph.D. in Computer Science and Engineering from the University of North Texas in 2014. She is a Level I Researcher recognized by the National System of Researchers. Currently, she is a researcher at the University of Michigan, where she is a part of the Artificial Intelligence laboratory and the Inform Language and Information Technologies research group in the Department of Computer Science. Her research interests include natural language processing (NLP), machine learning, computational linguistics, and multimodal representations. Her research focuses on NLP applications, including automatic detection of misinformation, NLP in mental health, as well as the detection of human behaviors such as sentiment, deception, sarcasm, and affective response. 
 	 </section>
 	 <hr>
 	<section id="main-bio">
 			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
-			<h3>Dr. Alexis Palmer</h3>
+			<h3>Alexis Palmer</h3>
       <h4>Assistant Professor at the University of Colorado Boulder</h4>
       <br />
 			<!-- Headshot image -->
 			<img width="140" id="bio-image" src="{{'/assets/images/speakers/speaker_alexis.png'| relative_url }}" align="left" alt="Alexis Palmer" hspace="10" />
-     	Alexis Palmer is a computational linguist and a professor in the Department of Linguistics at the University of Colorado Boulder. She studied English literature at the University of Michigan, and later earned both an MA and a PhD in computational linguistics from the University of Texas at Austin. Her main research interests include computational semantics, computational discourse, and the development and application of computational methods to support language documentation and revitalization.
+     	<a href="https://alexispalmer.github.io/">Alexis Palmer</a> is a computational linguist and a professor in the Department of Linguistics at the University of Colorado Boulder. She studied English literature at the University of Michigan, and later earned both an MA and a PhD in computational linguistics from the University of Texas at Austin. Her main research interests include computational semantics, computational discourse, and the development and application of computational methods to support language documentation and revitalization.
 		</section>
 	<hr>
 	<section id="main-bio">
@@ -125,7 +125,11 @@ Secondly, the technical principles for the implementation of attention mechanism
       <br />
 			<!-- Headshot image -->
 			<img width="140" id="bio-image" src="{{'/assets/images/speakers/speaker_umut.png'| relative_url }}" align="left" alt="Umut Pajaro" hspace="10" />
-     	Umut holds a BA in Communications and, an MA in Cultural Studies. Now is an Information Systems Ph.D. student. Currently delving into digital rights and AI ethics, striving to rectify biases, particularly those affecting gender, race, and marginalized communities in technology. Actively contributor and advocator to global dialogues on digital governance. As former Chair of the ISOC Gender Standing Group, they have spoken at events like the Internet Governance Forum and RightsCon. Their involvement includes roles such as a Mozilla Festival Wrangler, Lideres LACNIC 2.0, and Open Life Science 7 Fellow. They are a published researcher in mass media, digital rights, and AI ethics, aiming to transition into academia or diplomacy, and also driven by a passion for photography and poetry.
+     	<a href="https://twitter.com/umutpajaro">Umut Pajaro Velasquez</a> holds a BA in Communications and, an MA in Cultural Studies. Now is an Information Systems Ph.D. student. Currently delving into digital rights and AI ethics, striving to rectify biases, particularly those affecting gender, race, and marginalized communities in technology. Actively contributor and advocator to global dialogues on digital governance. As former Chair of the ISOC Gender Standing Group, they have spoken at events like the Internet Governance Forum and RightsCon. Their involvement includes roles such as a Mozilla Festival Wrangler, Lideres LACNIC 2.0, and Open Life Science 7 Fellow. They are a published researcher in mass media, digital rights, and AI ethics, aiming to transition into academia or diplomacy, and also driven by a passion for photography and poetry.
+		</section>
+		<section id="additional-info">
+      <h4>Keynote: Towards Inclusive Design and Development: Open Data and Gender as Key Tools for Inclusive LLMs Models</h4>
+	  We will explore the synergy between open data and collaborative construction with a gender lens, unraveling how this combination becomes a fundamental catalyst for the creation of more equitable and bias-free deep language models. We will take a close look at how the transparency and accessibility of open data, along with the active inclusion of gender perspectives in its construction, contribute significantly to mitigating inherent biases in LLMs. We will see how the use of practical strategies demonstrate how this approach not only addresses crucial challenges, but also drives innovation towards a future where NLPs and LLMs more accurately and fairly reflect the diversity of our society. In conclusion, we propose a path towards collaboratively building a more inclusive and equitable technological future.
 		</section>
 	<hr>
 </div>
@@ -134,41 +138,41 @@ Secondly, the technical principles for the implementation of attention mechanism
 <div id="Panels" class="tabcontent">
   		<section id="main-bio">
 			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
-			<h3>Dr. Jocelyn Dunstan</h3>
+			<h3>Jocelyn Dunstan</h3>
       <h4>Assistant Professor at the Pontifical Catholic University of Chile.</h4>
       <br />
 			<!-- Headshot image -->
 			<img width="225" id="bio-image" src="{{'/assets/images/speakers/speaker_jocelyn.jpeg'| relative_url }}" align="left" alt="speaker_jocelyn" hspace="10" />
-     Jocelyn Dunstan is an Assistant Professor at the Pontifical Catholic University of Chile. She holds a Ph.D. in Applied Mathematics and Theoretical Physics from the University of Cambridge in the UK. She specializes in leveraging machine learning and natural language processing to address key challenges. Her research primarily revolves around clinical text mining and patient prioritization. In addition to her academic role at the Catholic University of Chile, she is actively engaged as a researcher at prominent institutions such as the Millenium Institute for Foundational Research on Data (IMFD) and the Advanced Center for Electrical and Electronic Engineering (AC3E). Further information about her group's work can be found on their webpage at pln.cmm.uchile.cl. 
+     <a href="https://sites.google.com/view/jdunstan/home">Jocelyn Dunstan</a> is an Assistant Professor at the Pontifical Catholic University of Chile. She holds a Ph.D. in Applied Mathematics and Theoretical Physics from the University of Cambridge in the UK. She specializes in leveraging machine learning and natural language processing to address key challenges. Her research primarily revolves around clinical text mining and patient prioritization. In addition to her academic role at the Catholic University of Chile, she is actively engaged as a researcher at prominent institutions such as the Millenium Institute for Foundational Research on Data (IMFD) and the Advanced Center for Electrical and Electronic Engineering (AC3E). Further information about her group's work can be found on their webpage at pln.cmm.uchile.cl. 
 		</section>
 	<hr>
 	<section id="main-bio">
 			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
-			<h3>Dr. Manuel Montes y Gomez</h3>
+			<h3>Manuel Montes y Gomez</h3>
       <h4>Full Professor at INAOE, Mexico.</h4>
       <br />
 			<!-- Headshot image -->
 			<img width="225" id="bio-image" src="{{'/assets/images/speakers/speaker_manuel.png'| relative_url }}" align="left" alt="speaker_jocelyn" hspace="10" />
-     Manuel Montes-y-Gómez is Full Professor at the National Institute of Astrophysics, Optics and Electronics (INAOE) of Mexico. His research is on automatic text processing. He is author of more than 250 journal and conference papers in the fields of information retrieval, text mining and authorship analysis. <br> He has been visiting professor at the Polytechnic University of Valencia (Spain), and the University of Alabama (USA). He is also a member of the Mexican Academy of Sciences (AMC), and founding member of the Mexican Academy of Computer Science (AMEXCOMP), the Mexican Association of Natural Language Processing (AMNLP), and of the Language Technology Network of CONACYT. In the context of them, he has been the organizer of the National Workshop on Language Technologies (from 2004 to 2016), the Mexican Workshop on Plagiarism Detection and Authorship Analysis (2016-2020), the Mexican Autumn School on Language Technologies (2015 and 2016), and a shared task on author profiling, aggressiveness analysis and fake news detection in Mexican Spanish at IberLEF (2018-2021).
+     <a href="https://ccc.inaoep.mx/~mmontesg/">Manuel Montes-y-Gómez</a> is Full Professor at the National Institute of Astrophysics, Optics and Electronics (INAOE) of Mexico. His research is on automatic text processing. He is author of more than 250 journal and conference papers in the fields of information retrieval, text mining and authorship analysis. <br> He has been visiting professor at the Polytechnic University of Valencia (Spain), and the University of Alabama (USA). He is also a member of the Mexican Academy of Sciences (AMC), and founding member of the Mexican Academy of Computer Science (AMEXCOMP), the Mexican Association of Natural Language Processing (AMNLP), and of the Language Technology Network of CONACYT. In the context of them, he has been the organizer of the National Workshop on Language Technologies (from 2004 to 2016), the Mexican Workshop on Plagiarism Detection and Authorship Analysis (2016-2020), the Mexican Autumn School on Language Technologies (2015 and 2016), and a shared task on author profiling, aggressiveness analysis and fake news detection in Mexican Spanish at IberLEF (2018-2021).
 		</section>
 	<hr>
 	<section id="main-bio">
 			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
-			<h3>Dr. Luciana Benotti</h3>
+			<h3>Luciana Benotti</h3>
       <h4>Associate Professor at the National University of Córdoba and AI Researcher at CONICET, Argentina.</h4>
       <br />
 			<!-- Headshot image -->
 			<img width="225" id="bio-image" src="{{'/assets/images/speakers/speaker_benotti.jpg'| relative_url }}" align="left" alt="speaker_benotti" hspace="10" />
-     Luciana Benotti is an Associate Professor in Computer Science at the National University of Córdoba and a Researcher in Artificial Intelligence at CONICET, Argentina. Her research interests include different aspects of situated and interactive NLP, such as interpreting instructions in a dialogue, generating contextualized questions, and deciding when to speak in a dialogue system, among others. She is particularly interested in how linguistic and non-linguistic features contribute to the meaning conveyed during a conversation. These features include what the conversational participants are doing while they talk, the visual context, temporal aspects, etc. She has been a visiting scientist at the University of Trento (2019), Stanford University (2018), Roskilde University (2014), the University of Costa Rica (2012), and the University of Southern California (2010). She holds a joint MSc Erasmus Mundus from the Free University of Bolzano and the Polytechnic University of Madrid and a PhD from the Université de Lorraine. This year, she was chosen as the Latin American representative for the North American Association for Computational Linguistics (NAACL).
+     <a href="https://benotti.github.io/">Luciana Benotti</a> is an Associate Professor in Computer Science at the National University of Córdoba and a Researcher in Artificial Intelligence at CONICET, Argentina. Her research interests include different aspects of situated and interactive NLP, such as interpreting instructions in a dialogue, generating contextualized questions, and deciding when to speak in a dialogue system, among others. She is particularly interested in how linguistic and non-linguistic features contribute to the meaning conveyed during a conversation. These features include what the conversational participants are doing while they talk, the visual context, temporal aspects, etc. She has been a visiting scientist at the University of Trento (2019), Stanford University (2018), Roskilde University (2014), the University of Costa Rica (2012), and the University of Southern California (2010). She holds a joint MSc Erasmus Mundus from the Free University of Bolzano and the Polytechnic University of Madrid and a PhD from the Université de Lorraine. This year, she was chosen as the Latin American representative for the North American Association for Computational Linguistics (NAACL).
 		</section>
 		<hr>
 		<section id="main-bio">
-			<h3>Dr. Veronica Perez Rosas</h3>
+			<h3>Veronica Perez Rosas</h3>
       <h4>Researcher at the University of Michigan</h4>
       <br />
 			<!-- Headshot image -->
 			<img width="225" id="bio-image" src="{{'/assets/images/speakers/speaker_veronica_perez.jpeg'| relative_url }}" align="left" alt="Veronica Perez Rosas" hspace="10" />
-     She obtained her Ph.D. in Computer Science and Engineering from the University of North Texas in 2014. She is a Level I Researcher recognized by the National System of Researchers. Currently, she is a researcher at the University of Michigan, where she is a part of the Artificial Intelligence laboratory and the Inform Language and Information Technologies research group in the Department of Computer Science. Her research interests include natural language processing (NLP), machine learning, computational linguistics, and multimodal representations. Her research focuses on NLP applications, including automatic detection of misinformation, NLP in mental health, as well as the detection of human behaviors such as sentiment, deception, sarcasm, and affective response. More information about her research can be found at https://vrncapr.engin.umich.edu/.
+     <a href="https://vrncapr.engin.umich.edu/">Veronica Perez Rosas</a> obtained her Ph.D. in Computer Science and Engineering from the University of North Texas in 2014. She is a Level I Researcher recognized by the National System of Researchers. Currently, she is a researcher at the University of Michigan, where she is a part of the Artificial Intelligence laboratory and the Inform Language and Information Technologies research group in the Department of Computer Science. Her research interests include natural language processing (NLP), machine learning, computational linguistics, and multimodal representations. Her research focuses on NLP applications, including automatic detection of misinformation, NLP in mental health, as well as the detection of human behaviors such as sentiment, deception, sarcasm, and affective response.
 	</section>
 	<hr>
 </div>
