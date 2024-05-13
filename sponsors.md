@@ -24,13 +24,13 @@ title: Sponsors
 <div class="row" style="display: flex; justify-content: center; align-items: center; ">
   <div class="column" style="text-align: center;">
    <a href="https://khipu.ai/">
-    <img width="250" src="{{ 'assets/images/khipu2.png'| relative_url }}" alt="bloomberg" vspace= "30" hspace="50">
+    <img width="220" src="{{ 'assets/images/khipux.jpg'| relative_url }}" alt="bloomberg" vspace= "30" hspace="50">
     </a>
   </div>
   
   <div class="column" style="text-align: center;">
    <a href="https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/">
-    <img width="250" src="{{ 'assets/images/BBGEngineering_black.png'| relative_url }}" alt="bloomberg" vspace= "30" hspace="50">
+    <img width="220" src="{{ 'assets/images/BBGEngineering_black.png'| relative_url }}" alt="bloomberg" vspace= "30" hspace="50">
     </a>
   </div>
 </div>
