@@ -3,49 +3,79 @@ layout: page
 title: Sponsors
 
 ---
+## Major Sponsors
+
+<div class="row" style="display: flex; justify-content: center; align-items: center; ">
+  <div class="column" style="text-align: center;">
+   <a href="https://mbzuai.ac.ae/">
+    <img width="400" src="{{ 'assets/images/MBZUAI_Logo.jpg'| relative_url }}" vspace= "30" alt="MBZUAI">
+    </a>
+  </div>
+  <div class="column" style="text-align: center;">
+   <a href="https://www.adobe.com/">
+    <img width="400" src="{{ 'assets/images/adobe_logo.svg'| relative_url }}" vspace= "30" alt="Adobe">
+    </a>
+  </div>
+</div>
+
+---
+## Supporting Sponsors
+
+<div class="row" style="display: flex; justify-content: center; align-items: center; ">
+  <div class="column" style="text-align: center;">
+   <a href="https://khipu.ai/">
+    <img width="250" src="{{ 'assets/images/khipu2.png'| relative_url }}" alt="bloomberg" vspace= "30" hspace="50">
+    </a>
+  </div>
+  
+  <div class="column" style="text-align: center;">
+   <a href="https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/">
+    <img width="250" src="{{ 'assets/images/BBGEngineering_black.png'| relative_url }}" alt="bloomberg" vspace= "30" hspace="50">
+    </a>
+  </div>
+</div>
+
+---
+---
+
 ### Organizations:
 
-<br>
-<div class="row">
-<div class="column">
-  <img height="80" src="{{ 'assets/images/ampln.png'| relative_url }}" alt="AMPLN" hspace="30">
+<div class="row" style="display: flex; justify-content: center; align-items: center; ">
+  <div class="column">
+  <img width="100" src="{{ 'assets/images/ampln.png'| relative_url }}" alt="AMPLN" vspace = "30" hspace="50">
 </div>
  <div class="column">
-   <img height="80" src="{{ 'assets/images/ACL.png'| relative_url }}" alt="ACL" hspace="20">
+   <img width="100" src="{{ 'assets/images/ACL.png'| relative_url }}" alt="ACL" vspace = "30" hspace="50">
  </div>
  <div class="column">
-   <img height="110" src="{{ 'assets/images/red.jpg'| relative_url }}" alt="RedTTL" hspace="20">
+   <img width="100" src="{{ 'assets/images/red.jpg'| relative_url }}" alt="RedTTL" vspace = "30" hspace="50">
  </div>
 </div>
+
+
+
 
 ---
 ### Universities and Research Institutes:
 
-<br>
-<div class="row">
+<div class="row" style="display: flex; justify-content: center; align-items: center; ">
  <div class="column">
-   <img height="150" src="{{ 'assets/images/cimat.png'| relative_url }}" alt="CIMAT" hspace="40">
+   <img width="150" src="{{ 'assets/images/cimat.png'| relative_url }}" alt="CIMAT" vspace = "30" hspace="50">
  </div>
  <div class="column">
-   <img height="120" src="{{ 'assets/images/IIMAS.png'| relative_url }}" alt="IIMAS UNAM" hspace="40">
+   <img width="150" src="{{ 'assets/images/IIMAS.png'| relative_url }}" alt="IIMAS UNAM" vspace = "30" hspace="50">
  </div>
  <div class="column">
-   <img height="100" src="{{ 'assets/images/UTN.png'| relative_url }}" alt="UTN" hspace="40">
+   <img width="150" src="{{ 'assets/images/UTN.png'| relative_url }}" alt="UTN" vspace = "30" hspace="50">
  </div>
-</div>
-<br>
-<div class="row">
  <div class="column">
-   <img height="70" src="{{ 'assets/images/Idiap.png'| relative_url }}" alt="Idiap" hspace="40">
- </div>
-  <div class="column">
-   <img height="150" src="{{ 'assets/images/MBZUAI_Logo.jpg'| relative_url }}" alt="MZBUAI" hspace="40">
+   <img width="250" src="{{ 'assets/images/Idiap.png'| relative_url }}" alt="Idiap" vspace = "30" hspace="50">
  </div>
 </div>
 
 
 ---
-### Industry:
+<!-- ### Industry:
 
 <br>
 <div class="row">
@@ -56,7 +86,7 @@ title: Sponsors
  </div>
 </div>
 
-<br>
+<br> -->
 
 **Be Part of the Mexican NLP Summer School 2024**
 
