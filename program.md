@@ -70,7 +70,7 @@ We're excited to host this two-day event in Mexico City, co-located with [NAACL 
     <td class="tg-0lax">Keynote</td>
     <td class="tg-0lax">10:00</td>
     <td class="tg-0lax">11:00</td>
-    <td class="tg-0lax"><span style="font-weight:bold">Alexis Palmer</span></td>
+    <td class="tg-0lax">A tricky intersection: Natural language processing and endangered language documentation(<span style="font-weight:bold">Alexis Palmer</span>)</td>
   </tr>
   <tr>
     <td class="tg-0lax">AM Coffee Break</td>
@@ -100,7 +100,7 @@ We're excited to host this two-day event in Mexico City, co-located with [NAACL 
     <td class="tg-0lax">Keynote</td>
     <td class="tg-0lax">15:30</td>
     <td class="tg-0lax">16:30</td>
-    <td class="tg-0lax"><span style="font-weight:bold;color:#1F1F1F">Veronica Perez Rosas</span></td>
+    <td class="tg-0lax">NLP for Timely and Actionable Feedback in Healthcare Conversations(<span style="font-weight:bold;color:#1F1F1F">Veronica Perez Rosas</span>)</td>
   </tr>
   <tr>
     <td class="tg-0lax">PM Coffee Break</td>
