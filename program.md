@@ -70,7 +70,7 @@ We're excited to host this two-day event in Mexico City, co-located with [NAACL 
     <td class="tg-0lax">Keynote</td>
     <td class="tg-0lax">10:00</td>
     <td class="tg-0lax">11:00</td>
-    <td class="tg-0lax">A tricky intersection: Natural language processing and endangered language documentation(<span style="font-weight:bold">Alexis Palmer</span>)</td>
+    <td class="tg-0lax">A tricky intersection: Natural language processing and endangered language documentation (<span style="font-weight:bold">Alexis Palmer</span>)</td>
   </tr>
   <tr>
     <td class="tg-0lax">AM Coffee Break</td>
@@ -94,13 +94,13 @@ We're excited to host this two-day event in Mexico City, co-located with [NAACL 
     <td class="tg-0lax">Keynote</td>
     <td class="tg-0lax">14:30</td>
     <td class="tg-0lax">15:30</td>
-    <td class="tg-0lax">Towards Inclusive Design and Development: Open Data and Gender as Key Tools for Inclusive LLMs Models (<span style="font-weight:bold">Umut Pajaro Velasquez</span>)</td>
+    <td class="tg-0lax">Combatting Human Trafficking in the Cyberspace: An NLP-Based Methodology to Analyze Online Advertisements (<span style="font-weight:bold">Pablo Rivas</span>)</td>
   </tr>
   <tr>
     <td class="tg-0lax">Keynote</td>
     <td class="tg-0lax">15:30</td>
     <td class="tg-0lax">16:30</td>
-    <td class="tg-0lax">NLP for Timely and Actionable Feedback in Healthcare Conversations(<span style="font-weight:bold;color:#1F1F1F">Veronica Perez Rosas</span>)</td>
+    <td class="tg-0lax">NLP for Timely and Actionable Feedback in Healthcare Conversations (<span style="font-weight:bold;color:#1F1F1F">Veronica Perez Rosas</span>)</td>
   </tr>
   <tr>
     <td class="tg-0lax">PM Coffee Break</td>
