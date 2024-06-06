@@ -82,4 +82,4 @@ Asociación Mexicana de Procesamiento de Lenguaje Natural (AMPLN)
 
 ---
 
-[Call anterior (cerrada).](/escuelaverano2024/sponsor_policy/registration_closed)
+[Previous call (closed).](/escuelaverano2024/sponsor_policy/registration_closed/)
