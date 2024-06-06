@@ -273,7 +273,7 @@ Secondly, the technical principles for the implementation of attention mechanism
       <h4> Assistant Professor at Stanford</h4>
       <br />
 			<!-- Headshot image -->
-			<img width="225" id="bio-image" src="/assets/images/speakers/speaker_diyi.jpeg" align="left" alt="Diyi Yang" hspace="10" />
+			<img width="225" id="bio-image" src="/assets/images/speakers/speaker_diyi.jpeg" align="left" alt="headshot" hspace="10" />
      	<a href="https://cs.stanford.edu/~diyiy/">Diyi Yang</a> is an assistant professor in the Computer Science Department at Stanford University, also affiliated with the Stanford NLP Group, Stanford HCI Group and Stanford Human Centered AI Institute. Her research focuses on human-centered natural language processing and computational social science.  She is a recipient of  IEEE “AI 10 to Watch” (2020), Microsoft Research Faculty Fellowship (2021),  NSF CAREER Award (2022), an ONR Young Investigator Award (2023), and a Sloan Research Fellowship (2024).   Her work has received multiple paper awards or nominations at top NLP and HCI conferences, (e.g., Best Paper Honorable Mention at ICWSM 2016, Best Paper Honorable Mention at SIGCHI 2019, and Outstanding Paper at ACL 2022). 
 		</section>
 		<section id="additional-info">
@@ -329,45 +329,133 @@ Secondly, the technical principles for the implementation of attention mechanism
 </div>
 
 <div id="Panels" class="tabcontent">
-  		<section id="main-bio">
-			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
-			<h3>Jocelyn Dunstan</h3>
-      <h4>Assistant Professor at the Pontifical Catholic University of Chile.</h4>
-      <br />
-			<!-- Headshot image -->
-			<img width="225" id="bio-image" src="/assets/images/speakers/speaker_jocelyn.jpeg" align="left" alt="speaker_jocelyn" hspace="10" />
-     <a href="https://sites.google.com/view/jdunstan/home">Jocelyn Dunstan</a> is an Assistant Professor at the Pontifical Catholic University of Chile. She holds a Ph.D. in Applied Mathematics and Theoretical Physics from the University of Cambridge in the UK. She specializes in leveraging machine learning and natural language processing to address key challenges. Her research primarily revolves around clinical text mining and patient prioritization. In addition to her academic role at the Catholic University of Chile, she is actively engaged as a researcher at prominent institutions such as the Millenium Institute for Foundational Research on Data (IMFD) and the Advanced Center for Electrical and Electronic Engineering (AC3E). Further information about her group's work can be found on their webpage at pln.cmm.uchile.cl. 
-		</section>
-	<hr />
-	<section id="main-bio">
-			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
-			<h3>Manuel Montes y Gomez</h3>
-      <h4>Full Professor at INAOE, Mexico.</h4>
-      <br />
-			<!-- Headshot image -->
-			<img width="225" id="bio-image" src="/assets/images/speakers/speaker_manuel.png" align="left" alt="speaker_jocelyn" hspace="10" />
-     <a href="https://ccc.inaoep.mx/~mmontesg/">Manuel Montes-y-Gómez</a> is Full Professor at the National Institute of Astrophysics, Optics and Electronics (INAOE) of Mexico. His research is on automatic text processing. He is author of more than 250 journal and conference papers in the fields of information retrieval, text mining and authorship analysis. <br /> He has been visiting professor at the Polytechnic University of Valencia (Spain), and the University of Alabama (USA). He is also a member of the Mexican Academy of Sciences (AMC), and founding member of the Mexican Academy of Computer Science (AMEXCOMP), the Mexican Association of Natural Language Processing (AMNLP), and of the Language Technology Network of CONACYT. In the context of them, he has been the organizer of the National Workshop on Language Technologies (from 2004 to 2016), the Mexican Workshop on Plagiarism Detection and Authorship Analysis (2016-2020), the Mexican Autumn School on Language Technologies (2015 and 2016), and a shared task on author profiling, aggressiveness analysis and fake news detection in Mexican Spanish at IberLEF (2018-2021).
-		</section>
-	<hr />
-	<section id="main-bio">
-			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
-			<h3>Luciana Benotti</h3>
-      <h4>Associate Professor at the National University of Córdoba and AI Researcher at CONICET, Argentina.</h4>
-      <br />
-			<!-- Headshot image -->
-			<img width="225" id="bio-image" src="/assets/images/speakers/speaker_benotti.jpg" align="left" alt="speaker_benotti" hspace="10" />
-     <a href="https://benotti.github.io/">Luciana Benotti</a> is an Associate Professor in Computer Science at the National University of Córdoba and a Researcher in Artificial Intelligence at CONICET, Argentina. Her research interests include different aspects of situated and interactive NLP, such as interpreting instructions in a dialogue, generating contextualized questions, and deciding when to speak in a dialogue system, among others. She is particularly interested in how linguistic and non-linguistic features contribute to the meaning conveyed during a conversation. These features include what the conversational participants are doing while they talk, the visual context, temporal aspects, etc. She has been a visiting scientist at the University of Trento (2019), Stanford University (2018), Roskilde University (2014), the University of Costa Rica (2012), and the University of Southern California (2010). She holds a joint MSc Erasmus Mundus from the Free University of Bolzano and the Polytechnic University of Madrid and a PhD from the Université de Lorraine. This year, she was chosen as the Latin American representative for the North American Association for Computational Linguistics (NAACL).
-		</section>
-		<hr />
-		<section id="main-bio">
-			<h3>Veronica Perez Rosas</h3>
-      <h4>Researcher at the University of Michigan</h4>
-      <br />
-			<!-- Headshot image -->
-			<img width="225" id="bio-image" src="/assets/images/speakers/speaker_veronica_perez.jpeg" align="left" alt="Veronica Perez Rosas" hspace="10" />
-     <a href="https://vrncapr.engin.umich.edu/">Veronica Perez Rosas</a> obtained her Ph.D. in Computer Science and Engineering from the University of North Texas in 2014. She is a Level I Researcher recognized by the National System of Researchers. Currently, she is a researcher at the University of Michigan, where she is a part of the Artificial Intelligence laboratory and the Inform Language and Information Technologies research group in the Department of Computer Science. Her research interests include natural language processing (NLP), machine learning, computational linguistics, and multimodal representations. Her research focuses on NLP applications, including automatic detection of misinformation, NLP in mental health, as well as the detection of human behaviors such as sentiment, deception, sarcasm, and affective response.
-	</section>
-	<hr />
+    <style>
+        /* Basic Reset */
+        details { padding: 10px; margin: 10px; background: #f0f0f0; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        summary { cursor: pointer; }
+        summary::-webkit-details-marker { display: none; } /* Hide default arrow icon in Chrome */
+        /* Panel Styling */
+        .panel-summary {
+            font-size: 18px;
+            font-weight: bold;
+            color: #333;
+            padding: 10px;
+            border-bottom: 1px solid #ccc;
+            background-color: #e9ecef;
+            border-radius: 5px;
+            outline: none;
+        }
+        /* Speaker Styling */
+        .speaker-summary {
+            font-size: 16px;
+            font-weight: normal;
+            color: #555;
+            padding-left: 20px;
+            border-bottom: 1px solid #ddd;
+            outline: none;
+        }
+    </style>
+    <details>
+        <summary class="panel-summary">From "publish or perish" to "publicize or perish": Navigating challenges and opportunities for career advancement in Latin American communities in the current era of scientific publication trends.</summary>
+        <!-- <p>The ACL recently changed its <a href="https://www.aclweb.org/adminwiki/index.php/ACL_Anonymity_Policy">anonymity policy</a> and now allows authors to post deanonymized preprints anytime, including during the peer review process of papers. To read more about the working group that made this recommendation, go <a href="https://www.aclweb.org/adminwiki/images/5/56/ACL_Anonymity_Policy.pdf">here</a>.<br>
+		Latin America (LATAM) communities are fragmented from the mainstream research community, with publication practices dictated by an evaluation system that mostly rewards journal publications. In fact, the preprint culture in LATAM is so foreign that in some circles arxiving is a practice that is still confusing, if not outright unknown, to many. Yet, if LATAM researchers want to engage with the global north and increase the visibility of their research, then they need to become familiar with the publication trends, such as preprinting, of the global north and adjust publication practices accordingly. In addition to prepritning, our field is also facing pressure to publicize the work in social media platforms, such as X, where studies have shown that papers tweeted by “influencers” in the field accumulate more citations than others. <br>
+		This panel aims to bring to light questions from the LATAM community regarding the perceived need to preprint and publicize our work, even before it has been officially accepted for publication in a peer-reviewed venue.
+		<hr></p> -->
+		<!-- <p><strong>Panelists:</strong></p> -->
+        <details>
+            <summary class="speaker-summary"><strong>Diyi Yang</strong> | Assistant Professor at Stanford</summary>
+			<br />
+			<img width="150" id="bio-image" src="/assets/images/speakers/speaker_diyi.jpeg" align="left" alt="headshot" hspace="10" />
+            <p><a href="https://cs.stanford.edu/~diyiy/">Diyi Yang</a> is an assistant professor in the Computer Science Department at Stanford University, also affiliated with the Stanford NLP Group, Stanford HCI Group and Stanford Human Centered AI Institute. Her research focuses on human-centered natural language processing and computational social science.  She is a recipient of  IEEE “AI 10 to Watch” (2020), Microsoft Research Faculty Fellowship (2021),  NSF CAREER Award (2022), an ONR Young Investigator Award (2023), and a Sloan Research Fellowship (2024).   Her work has received multiple paper awards or nominations at top NLP and HCI conferences, (e.g., Best Paper Honorable Mention at ICWSM 2016, Best Paper Honorable Mention at SIGCHI 2019, and Outstanding Paper at ACL 2022). </p>
+        </details>
+		<details>
+            <summary class="speaker-summary"><strong>Manuel Montes y Gomez</strong> | Full Professor at the National Institute of Astrophysics, Optics and Electronics (INAOE) of Mexico</summary>
+			<br />
+			<img width="150" id="bio-image" src="/assets/images/speakers/speaker_manuel.png" align="left" alt="speaker_jocelyn" hspace="10" />
+            <p><a href="https://ccc.inaoep.mx/~mmontesg/">Manuel Montes-y-Gómez</a> is Full Professor at the National Institute of Astrophysics, Optics and Electronics (INAOE) of Mexico. His research is on automatic text processing. He is author of more than 250 journal and conference papers in the fields of information retrieval, text mining and authorship analysis. <br /> He has been visiting professor at the Polytechnic University of Valencia (Spain), and the University of Alabama (USA). He is also a member of the Mexican Academy of Sciences (AMC), and founding member of the Mexican Academy of Computer Science (AMEXCOMP), the Mexican Association of Natural Language Processing (AMNLP), and of the Language Technology Network of CONACYT. In the context of them, he has been the organizer of the National Workshop on Language Technologies (from 2004 to 2016), the Mexican Workshop on Plagiarism Detection and Authorship Analysis (2016-2020), the Mexican Autumn School on Language Technologies (2015 and 2016), and a shared task on author profiling, aggressiveness analysis and fake news detection in Mexican Spanish at IberLEF (2018-2021).</p>
+        </details>
+		<details>
+            <summary class="speaker-summary"><strong>Manuel Mager</strong> | Applied Scientist at Amazon AWS</summary>
+			<br />
+            <p><a href="http://code.kiutz.com/">Manuel Mager</a> is an Applied Scientist at Amazon AWS.</p>
+        </details>
+        <hr />
+    </details>
+    <details>
+        <summary class="panel-summary">Perspectivas de NLP desde Latinoamérica / NLP perspectives, an overview from Latin America.</summary>
+        <!-- <p>This panel aims to reflect on the panorama of NLP research and applications in Latin America. Participants will share their experience directing research groups and projects in the industry.  They will address the challenges faced in these areas when working in Latin America, as well as the potential areas of growth  and internationalization opportunities 
+		<hr>
+		Este panel tiene el objetivo de discutir el panorama de la investigación y aplicaciones del PLN en latinoamérica. Las participantes compartirán su experiencia dirigiendo grupos de investigación y proyectos en la industria.  Se abordarán los retos particulares que se enfrentan en estas áreas desde latinoamérica,  áreas de oportunidad, así como una reflexión en torno a oportunidades de internacionalización. 
+		<hr>
+		Language: Spanish.
+		<hr>
+		</p> -->
+		<!-- <p><strong>Panelists:</strong></p> -->
+        <details>
+            <summary class="speaker-summary"><strong>Luciana Benotti</strong> | Associate Professor at the National University of Córdoba and AI Researcher at CONICET, Argentina.</summary>
+			<br />
+			<img width="150" id="bio-image" src="/assets/images/speakers/speaker_benotti.jpg" align="left" alt="speaker_benotti" hspace="10" />
+            <p><a href="https://benotti.github.io/">Luciana Benotti</a> is an Associate Professor in Computer Science at the National University of Córdoba and a Researcher in Artificial Intelligence at CONICET, Argentina. Her research interests include different aspects of situated and interactive NLP, such as interpreting instructions in a dialogue, generating contextualized questions, and deciding when to speak in a dialogue system, among others. She is particularly interested in how linguistic and non-linguistic features contribute to the meaning conveyed during a conversation. These features include what the conversational participants are doing while they talk, the visual context, temporal aspects, etc. She has been a visiting scientist at the University of Trento (2019), Stanford University (2018), Roskilde University (2014), the University of Costa Rica (2012), and the University of Southern California (2010). She holds a joint MSc Erasmus Mundus from the Free University of Bolzano and the Polytechnic University of Madrid and a PhD from the Université de Lorraine. This year, she was chosen as the Latin American representative for the North American Association for Computational Linguistics (NAACL).</p>
+        </details>
+		<details>
+            <summary class="speaker-summary"><strong>Helena Gomez-Adorno</strong> | Associate Professor at IIMAS-UNAM, Mexico.</summary>
+			<br />
+			<img width="150" id="bio-image" src="/assets/images/speakers/speaker_helena.jpeg" align="left" alt="speaker_helena" hspace="10" />
+            <p><a href="https://helenagomez-adorno.github.io/">Helena Gómez Adorno</a> is a professor of Artificial Intelligence at IIMAS-UNAM. Among her research interests areas are natural language processing, computational linguistics, and information retrieval; specifically, question answering, semantic similarity, authorship attribution, and author profiling. Lead a research and development team to implement intelligent systems with the help of machine learning and neural networks.</p>
+        </details>
+		<details>
+            <summary class="speaker-summary"><strong>Jocelyn Dunstan</strong> | Assistant Professor at the Pontifical Catholic University of Chile.</summary>
+			<br />
+			<img width="150" id="bio-image" src="/assets/images/speakers/speaker_jocelyn.jpeg" align="left" alt="speaker_jocelyn" hspace="10" />
+            <p><a href="https://sites.google.com/view/jdunstan/home">Jocelyn Dunstan</a> is an Assistant Professor at the Pontifical Catholic University of Chile. She holds a Ph.D. in Applied Mathematics and Theoretical Physics from the University of Cambridge in the UK. She specializes in leveraging machine learning and natural language processing to address key challenges. Her research primarily revolves around clinical text mining and patient prioritization. In addition to her academic role at the Catholic University of Chile, she is actively engaged as a researcher at prominent institutions such as the Millenium Institute for Foundational Research on Data (IMFD) and the Advanced Center for Electrical and Electronic Engineering (AC3E). Further information about her group's work can be found on their webpage at pln.cmm.uchile.cl. </p>
+        </details>
+		<details>
+            <summary class="speaker-summary"><strong>Aidé Paola Ríos Rivero</strong> | Consultant at Deloitte</summary>
+			<!-- <br> -->
+			<!-- <img width="150" id="bio-image" src="/assets/images/speakers/speaker_diyi.jpeg" align="left" alt="headshot" hspace="10" /> -->
+            <!-- <p> </p> -->
+        </details>
+        <hr />
+    </details>
+	<details>
+        <summary class="panel-summary">Getting into NLP: Insights from experts and peers.</summary>
+        <!-- <p>Recent advances in natural language processing (NLP) have helped the field to rapidly grow in popularity and become extensively used. NLP is an exciting subfield of AI at the intersection of computer science, linguistics and cognitive science. Due to its multidisciplinary nature, venturing into this field can be intimidating to newcomers and those without a background in one of those core disciplines. “How hard is it to get into NLP?”, “Should I pursue a Master’s or a Ph.D.?”, “What does the job market look like?” are some of the most common concerns among those new to the field.<br>
+		This panel aims to answer these questions by creating an interactive space to discuss the various aspects involved in working in NLP. Attendees can expect to hear firsthand experiences and practical advice from experienced professionals and graduate students at various stages of their academic journeys. This panel will be particularly valuable for students, recent graduates, or professionals considering a career switch to NLP.
+		<hr>
+		</p> -->
+		<!-- <p><strong>Panelists:</strong></p> -->
+        <details>
+            <summary class="speaker-summary"><strong>Alexis Palmer</strong> | Assistant Professor at the University of Colorado Boulder</summary>
+			<br />
+			<img width="150" id="bio-image" src="/assets/images/speakers/speaker_alexis.png" align="left" alt="Alexis Palmer" hspace="10" />
+            <p><a href="https://lecs-lab.github.io/">Alexis Palmer</a> is an assistant professor in Linguistics at CU Boulder, a fellow of the ICS, and affiliated faculty with the department of Computer Science. Her primary research focus is on computational linguistics for low-resource and endangered languages. She also works in computational semantics, computational discourse, and computational analysis of toxic language. Her current work includes incorporating linguistic insights into cross-lingual transfer learning in order to more rapidly build tools to support low-resource and endangered languages. She is a member at large of the ACL Special Interest Group on Typology and Multilingual NLP, and a founding member of the ACL Special Interest Group on Endangered Languages. Alexis grew up in Northern Michigan, did her PhD at the University of Texas in Austin, and made her way to Boulder by way of several years in German universities and research institutions, as well as the University of North Texas.</p>
+        </details>
+		<details>
+            <summary class="speaker-summary"><strong>Roma Patel</strong> | Research Scientist at Google DeepMind</summary>
+			<br />
+			<img width="150" id="bio-image" src="/assets/images/speakers/speaker_roma.jpeg" align="left" alt="headshot" hspace="10" />
+            <p><a href="https://roma-patel.github.io/">Roma Patel</a> Research Scientist at Google DeepMind. Her research interests include reinforcement learning, interpretability, and safety.</p>
+        </details>
+		<details>
+            <summary class="speaker-summary"><strong>Emilio Villa-Cueva</strong> | Master’s student at CIMAT, Mexico.</summary>
+			<br />
+			<img width="150" id="bio-image" src="/assets/images/speakers/speaker_emilio.png" align="left" alt="headshot" hspace="10" />
+            <p><a href="https://villacu.github.io/">Emilio Villa-Cueva</a> holds a degree in Engineering Physics from the University of Guanajuato. Currently, he is a master’s student in computer science at CIMAT, specializing in Natural Language Processing. He has previously worked on domain adaptation, question-answering, few-shot learning, and cross-lingual transfer. His current interests are multilingual LLMs and their applications.</p>
+        </details>
+		<details>
+            <summary class="speaker-summary"><strong>Selene Báez Santamaría</strong> | PhD candidate at Vrije Universiteit Amsterdam</summary>
+			<br />
+			<img width="150" id="bio-image" src="/assets/images/speakers/speaker_selene.jpeg" align="left" alt="headshot" hspace="10" />
+            <p><a href="https://selbaez.github.io/">Selene Báez Santamaría</a> is a PhD candiate at Vrije Universiteit Amsterdam. Her research interests are natural language processing, and knowledge representation, focusing on the design of artificially intelligent agents.</p>
+        </details>
+		<details>
+            <summary class="speaker-summary"><strong>Horacio Jarquin</strong> | PhD candidate at INAOE, Mexico.</summary>
+			<br />
+			<img width="150" id="bio-image" src="/assets/images/speakers/speaker_horacio.jpeg" align="left" alt="headshot" hspace="10" />
+            <p><a href="https://scholar.google.com/citations?user=zEl3pBEAAAAJ">Horacio Jarquin</a> is a PhD student at the National Institute of Astrophysics, Optics and Electronics, (INAOE). He holds the a bachelor degree from the Universidad Popular Autónoma del Estado de Puebla in 2018 a MSc degree from INAOE in 2020. His research interests are on machine learning and natural language processing, with emphasis in supervised classification; with particular interest on the development and application of deep learning approaches for vision and language representation.</p>
+        </details>
+        <hr />
+    </details>
 </div>
 
 <script>
