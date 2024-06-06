@@ -193,7 +193,7 @@ Secondly, the technical principles for the implementation of attention mechanism
 		<details>
             <summary class="speaker-summary"><strong>Manuel Mager</strong> | Applied Scientist at Amazon AWS</summary>
 			<br>
-            <p><a href="http://code.kiutz.com/">Manuel Mager</a> is an Applied Scientist at Amazon AWS.</p>
+            <p><a href="http://code.kiutz.com/">Manuel Mager</a> is a Computer Science and Computer Linguistics/Natural Language Processing Resercher. His main aim is the inclusion of minority and indigenous languages into the scientific research.</p>
         </details>
         <hr>
     </details>
