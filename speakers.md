@@ -227,9 +227,9 @@ Secondly, the technical principles for the implementation of attention mechanism
         </details>
 		<details>
             <summary class="speaker-summary"><strong>Aidé Paola Ríos Rivero</strong> | Consultant at Deloitte</summary>
-			<!-- <br> -->
-			<!-- <img width="150" id="bio-image" src="{{'/assets/images/speakers/speaker_diyi.jpeg'| relative_url }}" align="left" alt="headshot" hspace="10" /> -->
-            <!-- <p> </p> -->
+			<br>
+			<img width="150" id="bio-image" src="{{'/assets/images/speakers/speaker_aide.jpeg'| relative_url }}" align="left" alt="headshot" hspace="10" />
+            <p>Aidé Ríos Rivero studied Linguistics at the National Autonomous University of Mexico. She currently works as a consultant at Deloitte in the Conversational AI area. Aide has worked on several linguistic projects such as transcription, analysis of lexical and argument structure of verbs, annotation of automatic translation errors, research into dialectal variants of Spanish, etc. In recent years, she has worked mainly on the design, deployment, and improvement of voice portals for telephony, banking, and finance companies Her main interests are Natural Language Processing and Conversational Design.</p>
         </details>
         <hr>
     </details>
