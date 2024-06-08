@@ -262,7 +262,7 @@ Secondly, the technical principles for the implementation of attention mechanism
             <summary class="speaker-summary"><strong>Selene Báez Santamaría</strong> | PhD candidate at Vrije Universiteit Amsterdam</summary>
 			<br>
 			<img width="150" id="bio-image" src="{{'/assets/images/speakers/speaker_selene.jpeg'| relative_url }}" align="left" alt="headshot" hspace="10" />
-            <p><a href="https://selbaez.github.io/">Selene Báez Santamaría</a> is a PhD candiate at Vrije Universiteit Amsterdam. Her research interests are natural language processing, and knowledge representation, focusing on the design of artificially intelligent agents.</p>
+            <p><a href="https://selbaez.github.io/">Selene Báez Santamaría</a> is a PhD candiate at Vrije Universiteit Amsterdam. Her research interests are natural language processing, and knowledge representation, focusing on the design of conversational social agents.</p>
         </details>
 		<details>
             <summary class="speaker-summary"><strong>Horacio Jarquin</strong> | PhD candidate at INAOE, Mexico.</summary>
