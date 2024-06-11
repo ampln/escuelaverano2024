@@ -189,9 +189,16 @@ We're excited to host this two-day event in Mexico City, co-located with [NAACL 
   </tr>
   <tr>
     <td class="tg-0lax">Panel C</td>
-    <td class="tg-0lax">16:15</td>
+    <td class="tg-0lax">16:30</td>
+    <td class="tg-0lax">18:00</td>
+    <td class="tg-0lax">Getting into NLP: Insights from experts and peers.</td>
+    <td class="tg-0qe0">Adelita</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Closing session</td>
+    <td class="tg-0lax">18:00</td>
     <td class="tg-0lax">18:30</td>
-    <td class="tg-0lax">Getting into NLP: Insights from experts and peers. Closing session </td>
+    <td class="tg-0lax">Closing session and final remarks.</td>
     <td class="tg-0qe0">Adelita</td>
   </tr>
 </tbody>
