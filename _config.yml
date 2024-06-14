@@ -19,7 +19,7 @@ navbar-links:
     - Speakers: "speakers"
     - Program   : "program"
   Registration: "registration"
-  FQA: "fqa"
+  FAQ: "faq"
   About the school:
     - About: "about"
     - Organizers: "chairs"
